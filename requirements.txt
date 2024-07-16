@@ -3,3 +3,4 @@ phidata
 python-dotenv
 anthropic
 python-docx
+pypandoc

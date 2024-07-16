@@ -6,8 +6,27 @@ from app.questionnaire import create_questionnaire, create_questionnaire_with_pr
 from app.document_template_parser import DocumentTemplateParser
 from app.question_parser import QuestionParser
 from app.logger import main_logger
+import pypandoc
+import tempfile
 
 load_dotenv()
+
+def convert_markdown_to_docx(markdown_content):
+    with tempfile.NamedTemporaryFile(delete=False, suffix='.docx') as temp_docx:
+        temp_docx_path = temp_docx.name
+    
+    try:
+        # Convert markdown to docx
+        pypandoc.convert_text(markdown_content, 'docx', format='md', outputfile=temp_docx_path)
+        
+        # Read the content of the temporary file
+        with open(temp_docx_path, 'rb') as docx_file:
+            docx_content = docx_file.read()
+        
+        return docx_content
+    finally:
+        # Ensure the temporary file is deleted
+        os.unlink(temp_docx_path)
 
 def main():
     st.title("DocuMint: AI-Powered Document Generator 📄")
@@ -71,14 +90,40 @@ def main():
                             st.subheader(f"Generated {selected_doc_type}")
                             st.text_area("Document Content", value=document_content, height=600, key="generated_document_content")
                             
+                            # Markdown download
                             st.download_button(
-                                label=f"Download {selected_doc_type}",
+                                label=f"Download {selected_doc_type} as Markdown",
                                 data=document_content,
                                 file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.md",
                                 mime="text/markdown",
-                                key="download_button"
+                                key="download_markdown_button"
                             )
-                            main_logger.info("Document download button created")
+                            
+                            # Plain text download
+                            st.download_button(
+                                label=f"Download {selected_doc_type} as Plain Text",
+                                data=document_content,
+                                file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.txt",
+                                mime="text/plain",
+                                key="download_text_button"
+                            )
+                            
+                            # Word document download using pypandoc
+                            try:
+                                docx_content = convert_markdown_to_docx(document_content)
+                                st.download_button(
+                                    label=f"Download {selected_doc_type} as Word Document",
+                                    data=docx_content,
+                                    file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.docx",
+                                    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                    key="download_word_button"
+                                )
+                                main_logger.info("Word document conversion successful")
+                            except Exception as e:
+                                st.error(f"Error converting to Word format: {str(e)}")
+                                main_logger.error(f"Error converting to Word format: {str(e)}")
+                            
+                            main_logger.info("Document download buttons created")
                         else:
                             st.warning("No content was generated. Please try again.")
                             main_logger.warning("No content was generated")

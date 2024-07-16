@@ -6,6 +6,7 @@ import re
 
 # Get API keys from environment variables
 anthropic_api_key = os.environ.get('ANTHROPIC_API_KEY')
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # Import the sow_section_mapping from utils.py
 from app.utils import sow_section_mapping
