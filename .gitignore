@@ -6,4 +6,5 @@ env/
 .venv/
 .env 
 **/bin/activatelogs/
-logs
+logs/
+.venvs/documint_env/bin/activate
