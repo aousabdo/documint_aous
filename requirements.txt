@@ -4,3 +4,8 @@ python-dotenv
 anthropic
 python-docx
 pypandoc
+requests
+streamlit
+openai
+pinecone-client
+

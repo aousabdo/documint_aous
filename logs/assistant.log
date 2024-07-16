@@ -1554,3 +1554,1627 @@
 2024-07-16 15:13:39,996 INFO Creating DocuMint assistants
 2024-07-16 15:13:40,000 INFO DocuMint assistants created successfully
 2024-07-16 15:13:40,000 INFO DocuMint assistants created successfully
+2024-07-16 15:58:00,674 INFO Creating DocuMint assistants
+2024-07-16 15:58:00,680 INFO DocuMint assistants created successfully
+2024-07-16 15:58:06,099 INFO Creating DocuMint assistants
+2024-07-16 15:58:06,102 INFO DocuMint assistants created successfully
+2024-07-16 16:05:15,857 INFO Creating DocuMint assistants
+2024-07-16 16:05:15,858 INFO DocuMint assistants created successfully
+2024-07-16 16:05:15,990 INFO Creating DocuMint assistants
+2024-07-16 16:05:15,990 INFO DocuMint assistants created successfully
+2024-07-16 16:05:22,656 INFO Creating DocuMint assistants
+2024-07-16 16:05:22,657 INFO DocuMint assistants created successfully
+2024-07-16 16:06:18,506 INFO Creating DocuMint assistants
+2024-07-16 16:06:18,508 INFO DocuMint assistants created successfully
+2024-07-16 16:06:19,669 INFO Creating DocuMint assistants
+2024-07-16 16:06:19,670 INFO DocuMint assistants created successfully
+2024-07-16 16:06:21,036 INFO Creating DocuMint assistants
+2024-07-16 16:06:21,037 INFO DocuMint assistants created successfully
+2024-07-16 16:06:21,048 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 16:06:21,048 INFO Generating section: Template Header, PR#
+2024-07-16 16:06:21,049 INFO Generated content for section: Template Header, PR#
+2024-07-16 16:06:22,777 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 16:06:22,778 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 16:06:28,259 INFO Generating section: Section II – Background
+2024-07-16 16:06:28,260 INFO Generated content for section: Section II – Background
+2024-07-16 16:06:33,751 INFO Generating section: Section III - Purpose
+2024-07-16 16:06:33,752 INFO Generated content for section: Section III - Purpose
+2024-07-16 16:06:39,504 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 16:06:39,506 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 16:06:56,500 INFO Generating section: Contractor Personnel
+2024-07-16 16:06:56,503 INFO Generated content for section: Contractor Personnel
+2024-07-16 16:07:04,431 INFO Generating section: Transition
+2024-07-16 16:07:04,433 INFO Generated content for section: Transition
+2024-07-16 16:07:14,757 INFO Generating section: Deliverables
+2024-07-16 16:07:14,761 INFO Generated content for section: Deliverables
+2024-07-16 16:07:19,902 INFO Generating section: Period of Performance
+2024-07-16 16:07:19,904 INFO Generated content for section: Period of Performance
+2024-07-16 16:07:27,618 INFO Generating section: Place of Performance
+2024-07-16 16:07:27,623 INFO Generated content for section: Place of Performance
+2024-07-16 16:07:31,931 INFO Generating section: Delivery Instructions
+2024-07-16 16:07:31,932 INFO Generated content for section: Delivery Instructions
+2024-07-16 16:07:38,051 INFO Generating section: Travel Requirements
+2024-07-16 16:07:38,053 INFO Generated content for section: Travel Requirements
+2024-07-16 16:07:44,862 INFO Generating section: GFE/GFI 
+2024-07-16 16:07:44,863 INFO Generated content for section: GFE/GFI 
+2024-07-16 16:07:48,287 INFO Generating section: Special Security Requirements 
+2024-07-16 16:07:48,289 INFO Generated content for section: Special Security Requirements 
+2024-07-16 16:07:54,003 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 16:07:54,004 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 16:08:00,267 INFO Completed document generation
+2024-07-16 16:12:22,342 INFO Creating DocuMint assistants
+2024-07-16 16:12:34,996 INFO Creating DocuMint assistants
+2024-07-16 16:13:57,889 INFO Creating DocuMint assistants
+2024-07-16 16:13:57,890 INFO DocuMint assistants created successfully
+2024-07-16 16:14:00,438 INFO Creating DocuMint assistants
+2024-07-16 16:28:59,969 INFO Creating DocuMint assistants
+2024-07-16 16:28:59,971 INFO DocuMint assistants created successfully
+2024-07-16 16:29:01,975 INFO Creating DocuMint assistants
+2024-07-16 16:29:01,976 INFO DocuMint assistants created successfully
+2024-07-16 16:29:02,961 INFO Creating DocuMint assistants
+2024-07-16 16:29:02,962 INFO DocuMint assistants created successfully
+2024-07-16 16:29:02,965 INFO Creating DocuMint assistants
+2024-07-16 16:29:02,966 INFO DocuMint assistants created successfully
+2024-07-16 16:29:05,219 INFO Creating DocuMint assistants
+2024-07-16 16:29:05,220 INFO DocuMint assistants created successfully
+2024-07-16 16:29:06,478 INFO Creating DocuMint assistants
+2024-07-16 16:29:06,480 INFO DocuMint assistants created successfully
+2024-07-16 16:29:07,778 INFO Creating DocuMint assistants
+2024-07-16 16:29:07,779 INFO DocuMint assistants created successfully
+2024-07-16 16:29:07,796 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 16:29:07,796 INFO Generating section: Template Header, PR#
+2024-07-16 16:29:07,796 INFO Generated content for section: Template Header, PR#
+2024-07-16 16:29:15,878 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 16:29:15,882 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 16:29:20,296 INFO Generating section: Section II – Background
+2024-07-16 16:29:20,297 INFO Generated content for section: Section II – Background
+2024-07-16 16:29:34,745 INFO Generating section: Section III - Purpose
+2024-07-16 16:29:34,747 INFO Generated content for section: Section III - Purpose
+2024-07-16 16:29:42,921 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 16:29:42,926 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 16:30:12,516 INFO Generating section: Contractor Personnel
+2024-07-16 16:30:12,519 INFO Generated content for section: Contractor Personnel
+2024-07-16 16:30:20,269 INFO Generating section: Transition
+2024-07-16 16:30:20,271 INFO Generated content for section: Transition
+2024-07-16 16:30:31,362 INFO Generating section: Deliverables
+2024-07-16 16:30:31,364 INFO Generated content for section: Deliverables
+2024-07-16 16:30:36,634 INFO Generating section: Period of Performance
+2024-07-16 16:30:36,643 INFO Generated content for section: Period of Performance
+2024-07-16 16:30:55,766 INFO Generating section: Place of Performance
+2024-07-16 16:30:55,768 INFO Generated content for section: Place of Performance
+2024-07-16 16:30:59,506 INFO Generating section: Delivery Instructions
+2024-07-16 16:30:59,507 INFO Generated content for section: Delivery Instructions
+2024-07-16 16:31:01,750 INFO Generating section: Travel Requirements
+2024-07-16 16:31:01,751 INFO Generated content for section: Travel Requirements
+2024-07-16 16:31:05,563 INFO Generating section: GFE/GFI 
+2024-07-16 16:31:05,564 INFO Generated content for section: GFE/GFI 
+2024-07-16 16:31:09,282 INFO Generating section: Special Security Requirements 
+2024-07-16 16:31:09,286 INFO Generated content for section: Special Security Requirements 
+2024-07-16 16:31:14,425 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 16:31:14,426 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 16:31:19,324 INFO Completed document generation
+2024-07-16 16:31:49,416 INFO Creating DocuMint assistants
+2024-07-16 16:31:49,416 INFO Creating DocuMint assistants
+2024-07-16 16:31:49,421 INFO Using Llama 3 LLM
+2024-07-16 16:31:49,421 INFO Using Llama 3 LLM
+2024-07-16 16:31:49,421 INFO DocuMint assistants created successfully
+2024-07-16 16:31:49,421 INFO DocuMint assistants created successfully
+2024-07-16 16:38:19,315 INFO Creating DocuMint assistants
+2024-07-16 16:38:19,318 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:38:19,318 INFO DocuMint assistants created successfully
+2024-07-16 16:38:23,991 INFO Creating DocuMint assistants
+2024-07-16 16:41:58,452 INFO Creating DocuMint assistants
+2024-07-16 16:45:45,408 INFO Creating DocuMint assistants
+2024-07-16 16:45:45,409 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:45:45,409 INFO DocuMint assistants created successfully
+2024-07-16 16:45:45,565 INFO Creating DocuMint assistants
+2024-07-16 16:45:45,565 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:45:45,565 INFO DocuMint assistants created successfully
+2024-07-16 16:45:48,148 INFO Creating DocuMint assistants
+2024-07-16 16:45:57,121 INFO Creating DocuMint assistants
+2024-07-16 16:45:57,122 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 16:45:57,122 INFO DocuMint assistants created successfully
+2024-07-16 16:46:00,501 INFO Creating DocuMint assistants
+2024-07-16 16:46:00,501 INFO Using Llama 3 LLM
+2024-07-16 16:46:00,502 INFO DocuMint assistants created successfully
+2024-07-16 16:46:02,607 INFO Creating DocuMint assistants
+2024-07-16 16:46:02,608 INFO Using Llama 3 LLM
+2024-07-16 16:46:02,609 INFO DocuMint assistants created successfully
+2024-07-16 16:46:03,852 INFO Creating DocuMint assistants
+2024-07-16 16:46:03,853 INFO Using Llama 3 LLM
+2024-07-16 16:46:03,853 INFO DocuMint assistants created successfully
+2024-07-16 16:46:05,122 INFO Creating DocuMint assistants
+2024-07-16 16:46:05,123 INFO Using Llama 3 LLM
+2024-07-16 16:46:05,124 INFO DocuMint assistants created successfully
+2024-07-16 16:46:05,133 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 16:46:05,133 INFO Generating section: Template Header, PR#
+2024-07-16 16:46:05,133 INFO Generated content for section: Template Header, PR#
+2024-07-16 16:46:17,569 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 16:46:17,572 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 16:46:27,983 INFO Generating section: Section II – Background
+2024-07-16 16:46:27,985 INFO Generated content for section: Section II – Background
+2024-07-16 16:46:41,937 INFO Generating section: Section III - Purpose
+2024-07-16 16:46:41,939 INFO Generated content for section: Section III - Purpose
+2024-07-16 16:46:49,334 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 16:46:49,336 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 16:47:17,238 INFO Generating section: Contractor Personnel
+2024-07-16 16:47:17,240 INFO Generated content for section: Contractor Personnel
+2024-07-16 16:47:25,291 INFO Generating section: Transition
+2024-07-16 16:47:25,293 INFO Generated content for section: Transition
+2024-07-16 16:47:36,443 INFO Generating section: Deliverables
+2024-07-16 16:47:36,445 INFO Generated content for section: Deliverables
+2024-07-16 16:47:49,206 INFO Generating section: Period of Performance
+2024-07-16 16:47:49,208 INFO Generated content for section: Period of Performance
+2024-07-16 16:48:07,311 INFO Generating section: Place of Performance
+2024-07-16 16:48:07,313 INFO Generated content for section: Place of Performance
+2024-07-16 16:48:10,804 INFO Generating section: Delivery Instructions
+2024-07-16 16:48:10,805 INFO Generated content for section: Delivery Instructions
+2024-07-16 16:48:13,061 INFO Generating section: Travel Requirements
+2024-07-16 16:48:13,062 INFO Generated content for section: Travel Requirements
+2024-07-16 16:48:15,918 INFO Generating section: GFE/GFI 
+2024-07-16 16:48:15,919 INFO Generated content for section: GFE/GFI 
+2024-07-16 16:48:18,159 INFO Generating section: Special Security Requirements 
+2024-07-16 16:48:18,159 INFO Generated content for section: Special Security Requirements 
+2024-07-16 16:48:21,404 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 16:48:21,405 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 16:48:28,476 INFO Completed document generation
+2024-07-16 16:49:36,700 INFO Creating DocuMint assistants
+2024-07-16 16:49:36,704 INFO Using Llama 3 LLM
+2024-07-16 16:49:36,709 INFO DocuMint assistants created successfully
+2024-07-16 16:51:12,531 INFO Creating DocuMint assistants
+2024-07-16 16:51:12,538 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 16:51:12,540 INFO DocuMint assistants created successfully
+2024-07-16 16:51:16,751 INFO Creating DocuMint assistants
+2024-07-16 16:52:48,939 INFO Creating DocuMint assistants
+2024-07-16 16:52:48,939 INFO Creating DocuMint assistants
+2024-07-16 16:52:48,940 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:52:48,940 INFO DocuMint assistants created successfully
+2024-07-16 16:52:49,148 INFO Creating DocuMint assistants
+2024-07-16 16:52:49,148 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:52:49,148 INFO DocuMint assistants created successfully
+2024-07-16 16:52:51,181 INFO Creating DocuMint assistants
+2024-07-16 16:53:10,507 INFO Creating DocuMint assistants
+2024-07-16 16:53:10,507 INFO Creating DocuMint assistants
+2024-07-16 16:53:10,507 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:53:10,508 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:53:10,508 INFO DocuMint assistants created successfully
+2024-07-16 16:53:10,508 INFO DocuMint assistants created successfully
+2024-07-16 16:53:10,733 INFO Creating DocuMint assistants
+2024-07-16 16:53:10,734 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:53:10,734 INFO DocuMint assistants created successfully
+2024-07-16 16:53:11,252 INFO Creating DocuMint assistants
+2024-07-16 16:53:11,252 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 16:53:11,253 INFO DocuMint assistants created successfully
+2024-07-16 16:53:12,437 INFO Creating DocuMint assistants
+2024-07-16 17:03:45,163 INFO Creating DocuMint assistants
+2024-07-16 17:03:45,168 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:03:45,168 INFO DocuMint assistants created successfully
+2024-07-16 17:03:47,778 INFO Creating DocuMint assistants
+2024-07-16 17:05:49,089 INFO Creating DocuMint assistants
+2024-07-16 17:05:49,091 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:05:49,091 INFO DocuMint assistants created successfully
+2024-07-16 17:05:50,908 INFO Creating DocuMint assistants
+2024-07-16 17:06:23,109 INFO Creating DocuMint assistants
+2024-07-16 17:06:23,112 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:06:23,112 INFO DocuMint assistants created successfully
+2024-07-16 17:06:24,700 INFO Creating DocuMint assistants
+2024-07-16 17:06:28,312 INFO Creating DocuMint assistants
+2024-07-16 17:06:28,314 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:06:28,315 INFO DocuMint assistants created successfully
+2024-07-16 17:06:35,342 INFO Creating DocuMint assistants
+2024-07-16 17:06:35,344 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:06:35,344 INFO DocuMint assistants created successfully
+2024-07-16 17:06:38,318 INFO Creating DocuMint assistants
+2024-07-16 17:06:38,318 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:06:38,319 INFO DocuMint assistants created successfully
+2024-07-16 17:07:28,914 INFO Creating DocuMint assistants
+2024-07-16 17:07:28,914 INFO Creating DocuMint assistants
+2024-07-16 17:07:28,914 INFO Creating DocuMint assistants
+2024-07-16 17:07:28,915 INFO Creating DocuMint assistants
+2024-07-16 17:07:28,915 INFO Using GPT-4o LLM
+2024-07-16 17:07:28,915 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:07:28,916 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:07:28,916 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:07:28,916 INFO DocuMint assistants created successfully
+2024-07-16 17:07:28,916 INFO DocuMint assistants created successfully
+2024-07-16 17:07:28,916 INFO DocuMint assistants created successfully
+2024-07-16 17:07:28,917 INFO DocuMint assistants created successfully
+2024-07-16 17:07:29,333 INFO Creating DocuMint assistants
+2024-07-16 17:07:29,335 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:07:29,335 INFO DocuMint assistants created successfully
+2024-07-16 17:07:30,975 INFO Creating DocuMint assistants
+2024-07-16 17:07:30,976 INFO Using GPT-4o LLM
+2024-07-16 17:07:30,977 INFO DocuMint assistants created successfully
+2024-07-16 17:07:35,056 INFO Creating DocuMint assistants
+2024-07-16 17:07:35,057 INFO Using GPT-4o LLM
+2024-07-16 17:07:35,057 INFO DocuMint assistants created successfully
+2024-07-16 17:07:36,206 INFO Creating DocuMint assistants
+2024-07-16 17:07:36,206 INFO Using GPT-4o LLM
+2024-07-16 17:07:36,207 INFO DocuMint assistants created successfully
+2024-07-16 17:07:38,133 INFO Creating DocuMint assistants
+2024-07-16 17:07:38,135 INFO Using GPT-4o LLM
+2024-07-16 17:07:38,136 INFO DocuMint assistants created successfully
+2024-07-16 17:07:38,145 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:07:38,145 INFO Generating section: Template Header, PR#
+2024-07-16 17:07:38,145 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:07:42,781 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:07:42,782 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:07:48,485 INFO Generating section: Section II – Background
+2024-07-16 17:07:48,488 INFO Generated content for section: Section II – Background
+2024-07-16 17:08:04,269 INFO Generating section: Section III - Purpose
+2024-07-16 17:08:04,270 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:08:08,736 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:08:08,743 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:08:34,951 INFO Generating section: Contractor Personnel
+2024-07-16 17:08:34,952 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:08:43,526 INFO Generating section: Transition
+2024-07-16 17:08:43,527 INFO Generated content for section: Transition
+2024-07-16 17:08:55,039 INFO Generating section: Deliverables
+2024-07-16 17:08:55,039 INFO Generated content for section: Deliverables
+2024-07-16 17:09:04,191 INFO Generating section: Period of Performance
+2024-07-16 17:09:04,193 INFO Generated content for section: Period of Performance
+2024-07-16 17:09:17,464 INFO Generating section: Place of Performance
+2024-07-16 17:09:17,465 INFO Generated content for section: Place of Performance
+2024-07-16 17:09:21,908 INFO Generating section: Delivery Instructions
+2024-07-16 17:09:21,909 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:09:26,243 INFO Generating section: Travel Requirements
+2024-07-16 17:09:26,244 INFO Generated content for section: Travel Requirements
+2024-07-16 17:09:46,458 INFO Generating section: GFE/GFI 
+2024-07-16 17:09:46,460 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:09:51,388 INFO Generating section: Special Security Requirements 
+2024-07-16 17:09:51,389 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:09:57,861 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:09:57,863 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:10:07,600 INFO Completed document generation
+2024-07-16 17:10:35,005 INFO Creating DocuMint assistants
+2024-07-16 17:10:35,006 INFO Using GPT-4o LLM
+2024-07-16 17:10:35,006 INFO DocuMint assistants created successfully
+2024-07-16 17:13:35,573 INFO Creating DocuMint assistants
+2024-07-16 17:13:35,573 INFO Creating DocuMint assistants
+2024-07-16 17:13:35,575 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:13:35,575 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:13:35,575 INFO DocuMint assistants created successfully
+2024-07-16 17:13:35,575 INFO DocuMint assistants created successfully
+2024-07-16 17:15:37,767 INFO Creating DocuMint assistants
+2024-07-16 17:15:37,767 INFO Creating DocuMint assistants
+2024-07-16 17:15:37,767 INFO Creating DocuMint assistants
+2024-07-16 17:15:37,768 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:37,768 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:37,768 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:37,770 INFO DocuMint assistants created successfully
+2024-07-16 17:15:37,770 INFO DocuMint assistants created successfully
+2024-07-16 17:15:37,770 INFO DocuMint assistants created successfully
+2024-07-16 17:15:48,298 INFO Creating DocuMint assistants
+2024-07-16 17:15:48,298 INFO Creating DocuMint assistants
+2024-07-16 17:15:48,298 INFO Creating DocuMint assistants
+2024-07-16 17:15:48,299 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:48,299 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:48,299 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:15:48,300 INFO DocuMint assistants created successfully
+2024-07-16 17:15:48,300 INFO DocuMint assistants created successfully
+2024-07-16 17:15:48,300 INFO DocuMint assistants created successfully
+2024-07-16 17:16:08,760 INFO Creating DocuMint assistants
+2024-07-16 17:16:08,761 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:08,761 INFO DocuMint assistants created successfully
+2024-07-16 17:16:08,890 INFO Creating DocuMint assistants
+2024-07-16 17:16:08,890 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:08,891 INFO DocuMint assistants created successfully
+2024-07-16 17:16:09,289 INFO Creating DocuMint assistants
+2024-07-16 17:16:09,290 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:09,290 INFO DocuMint assistants created successfully
+2024-07-16 17:16:09,370 INFO Creating DocuMint assistants
+2024-07-16 17:16:09,370 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:09,371 INFO DocuMint assistants created successfully
+2024-07-16 17:16:09,437 INFO Creating DocuMint assistants
+2024-07-16 17:16:09,437 INFO Using GPT-4o LLM
+2024-07-16 17:16:09,437 INFO DocuMint assistants created successfully
+2024-07-16 17:16:09,494 INFO Creating DocuMint assistants
+2024-07-16 17:16:09,494 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:09,494 INFO DocuMint assistants created successfully
+2024-07-16 17:16:45,082 INFO Creating DocuMint assistants
+2024-07-16 17:16:45,082 INFO Creating DocuMint assistants
+2024-07-16 17:16:45,083 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:45,083 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:45,084 INFO DocuMint assistants created successfully
+2024-07-16 17:16:45,084 INFO DocuMint assistants created successfully
+2024-07-16 17:16:52,996 INFO Creating DocuMint assistants
+2024-07-16 17:16:52,996 INFO Creating DocuMint assistants
+2024-07-16 17:16:52,996 INFO Creating DocuMint assistants
+2024-07-16 17:16:52,997 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:52,997 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:52,997 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:16:52,997 INFO DocuMint assistants created successfully
+2024-07-16 17:16:52,997 INFO DocuMint assistants created successfully
+2024-07-16 17:16:52,997 INFO DocuMint assistants created successfully
+2024-07-16 17:17:10,547 INFO Creating DocuMint assistants
+2024-07-16 17:17:10,547 INFO Creating DocuMint assistants
+2024-07-16 17:17:10,547 INFO Creating DocuMint assistants
+2024-07-16 17:17:10,547 INFO Creating DocuMint assistants
+2024-07-16 17:17:10,547 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:10,547 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:10,547 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:10,547 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:10,547 INFO DocuMint assistants created successfully
+2024-07-16 17:17:10,547 INFO DocuMint assistants created successfully
+2024-07-16 17:17:10,547 INFO DocuMint assistants created successfully
+2024-07-16 17:17:10,547 INFO DocuMint assistants created successfully
+2024-07-16 17:17:38,116 INFO Creating DocuMint assistants
+2024-07-16 17:17:38,116 INFO Creating DocuMint assistants
+2024-07-16 17:17:38,116 INFO Creating DocuMint assistants
+2024-07-16 17:17:38,116 INFO Creating DocuMint assistants
+2024-07-16 17:17:38,116 INFO Creating DocuMint assistants
+2024-07-16 17:17:38,116 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:38,116 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:38,116 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:38,116 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:38,116 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:17:38,117 INFO DocuMint assistants created successfully
+2024-07-16 17:17:38,117 INFO DocuMint assistants created successfully
+2024-07-16 17:17:38,117 INFO DocuMint assistants created successfully
+2024-07-16 17:17:38,117 INFO DocuMint assistants created successfully
+2024-07-16 17:17:38,117 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Creating DocuMint assistants
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,292 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:20:44,296 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,972 INFO Creating DocuMint assistants
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:21:13,973 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,814 INFO Creating DocuMint assistants
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,817 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:15,820 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,350 INFO Creating DocuMint assistants
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:18,351 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,757 INFO Creating DocuMint assistants
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,759 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:19,760 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,844 INFO Creating DocuMint assistants
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,845 INFO DocuMint assistants created successfully
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,853 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:20,854 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,096 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,098 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,099 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,282 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generating section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,283 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,553 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,554 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,555 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,713 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,715 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,717 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,869 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,879 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:21,880 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,023 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generating section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,024 INFO Generated content for section: Transition
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,153 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,155 INFO Generating section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,156 INFO Generated content for section: Deliverables
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,335 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,337 INFO Generating section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,339 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,496 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generating section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,498 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,715 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,716 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,717 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,962 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,963 INFO Generating section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:22,964 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,125 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,126 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,128 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,344 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,345 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,346 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,513 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,515 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,516 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,740 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:23,746 INFO Completed document generation
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,977 INFO Creating DocuMint assistants
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,983 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:30,984 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Creating DocuMint assistants
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,816 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:32,817 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,456 INFO Creating DocuMint assistants
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,457 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:33,459 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,244 INFO Creating DocuMint assistants
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,246 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:34,248 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,396 INFO Creating DocuMint assistants
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,398 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,400 INFO DocuMint assistants created successfully
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,418 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generating section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,419 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,597 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,599 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,601 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,753 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,754 INFO Generating section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,756 INFO Generated content for section: Section II – Background
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,897 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,899 INFO Generating section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:35,900 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,129 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,130 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,131 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,274 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generating section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,276 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,479 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,481 INFO Generating section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,482 INFO Generated content for section: Transition
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,636 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,640 INFO Generating section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,641 INFO Generated content for section: Deliverables
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,799 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,800 INFO Generating section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,801 INFO Generated content for section: Period of Performance
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,943 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,944 INFO Generating section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:36,945 INFO Generated content for section: Place of Performance
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,068 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,072 INFO Generating section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,073 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,293 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,294 INFO Generating section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,298 INFO Generated content for section: Travel Requirements
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,447 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,448 INFO Generating section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,449 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,594 INFO Generating section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,595 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,791 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,793 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,800 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,946 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:37,947 INFO Completed document generation
+2024-07-16 17:24:54,313 INFO Creating DocuMint assistants
+2024-07-16 17:24:54,313 INFO Creating DocuMint assistants
+2024-07-16 17:24:54,314 INFO Creating DocuMint assistants
+2024-07-16 17:24:54,315 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:54,315 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:54,315 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:54,316 INFO DocuMint assistants created successfully
+2024-07-16 17:24:54,317 INFO DocuMint assistants created successfully
+2024-07-16 17:24:54,317 INFO DocuMint assistants created successfully
+2024-07-16 17:24:54,662 INFO Creating DocuMint assistants
+2024-07-16 17:24:54,663 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:54,666 INFO DocuMint assistants created successfully
+2024-07-16 17:24:57,942 INFO Creating DocuMint assistants
+2024-07-16 17:24:57,943 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:57,944 INFO DocuMint assistants created successfully
+2024-07-16 17:24:58,954 INFO Creating DocuMint assistants
+2024-07-16 17:24:58,955 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:24:58,956 INFO DocuMint assistants created successfully
+2024-07-16 17:25:00,147 INFO Creating DocuMint assistants
+2024-07-16 17:25:00,149 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:25:00,150 INFO DocuMint assistants created successfully
+2024-07-16 17:25:00,162 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:25:00,162 INFO Generating section: Template Header, PR#
+2024-07-16 17:25:00,162 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:25:00,326 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:00,326 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:25:00,326 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:25:00,466 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:00,466 INFO Generating section: Section II – Background
+2024-07-16 17:25:00,467 INFO Generated content for section: Section II – Background
+2024-07-16 17:25:00,630 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:00,633 INFO Generating section: Section III - Purpose
+2024-07-16 17:25:00,634 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:25:00,773 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:00,774 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:25:00,775 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:25:00,949 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:00,950 INFO Generating section: Contractor Personnel
+2024-07-16 17:25:00,951 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:25:01,103 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,103 INFO Generating section: Transition
+2024-07-16 17:25:01,103 INFO Generated content for section: Transition
+2024-07-16 17:25:01,292 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,293 INFO Generating section: Deliverables
+2024-07-16 17:25:01,293 INFO Generated content for section: Deliverables
+2024-07-16 17:25:01,461 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,462 INFO Generating section: Period of Performance
+2024-07-16 17:25:01,462 INFO Generated content for section: Period of Performance
+2024-07-16 17:25:01,608 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,609 INFO Generating section: Place of Performance
+2024-07-16 17:25:01,609 INFO Generated content for section: Place of Performance
+2024-07-16 17:25:01,739 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,740 INFO Generating section: Delivery Instructions
+2024-07-16 17:25:01,740 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:25:01,913 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:01,913 INFO Generating section: Travel Requirements
+2024-07-16 17:25:01,914 INFO Generated content for section: Travel Requirements
+2024-07-16 17:25:02,046 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:02,047 INFO Generating section: GFE/GFI 
+2024-07-16 17:25:02,047 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:25:02,186 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:02,187 INFO Generating section: Special Security Requirements 
+2024-07-16 17:25:02,187 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:25:02,396 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:02,396 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:25:02,397 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:25:02,596 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:25:02,597 INFO Completed document generation
+2024-07-16 17:26:39,417 INFO Creating DocuMint assistants
+2024-07-16 17:26:39,420 INFO DocuMint assistants created successfully
+2024-07-16 17:26:42,259 INFO Creating DocuMint assistants
+2024-07-16 17:26:42,259 INFO DocuMint assistants created successfully
+2024-07-16 17:26:44,002 INFO Creating DocuMint assistants
+2024-07-16 17:26:44,003 INFO DocuMint assistants created successfully
+2024-07-16 17:26:45,414 INFO Creating DocuMint assistants
+2024-07-16 17:26:45,416 INFO DocuMint assistants created successfully
+2024-07-16 17:26:45,430 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:26:45,430 INFO Generating section: Template Header, PR#
+2024-07-16 17:26:45,431 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:26:45,589 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:45,589 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:26:45,590 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:26:45,742 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:45,743 INFO Generating section: Section II – Background
+2024-07-16 17:26:45,743 INFO Generated content for section: Section II – Background
+2024-07-16 17:26:45,888 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:45,889 INFO Generating section: Section III - Purpose
+2024-07-16 17:26:45,889 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:26:46,044 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,044 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:26:46,045 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:26:46,286 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,286 INFO Generating section: Contractor Personnel
+2024-07-16 17:26:46,287 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:26:46,419 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,421 INFO Generating section: Transition
+2024-07-16 17:26:46,422 INFO Generated content for section: Transition
+2024-07-16 17:26:46,550 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,551 INFO Generating section: Deliverables
+2024-07-16 17:26:46,551 INFO Generated content for section: Deliverables
+2024-07-16 17:26:46,708 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,711 INFO Generating section: Period of Performance
+2024-07-16 17:26:46,712 INFO Generated content for section: Period of Performance
+2024-07-16 17:26:46,849 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,849 INFO Generating section: Place of Performance
+2024-07-16 17:26:46,849 INFO Generated content for section: Place of Performance
+2024-07-16 17:26:46,994 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:46,994 INFO Generating section: Delivery Instructions
+2024-07-16 17:26:46,995 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:26:47,292 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:47,292 INFO Generating section: Travel Requirements
+2024-07-16 17:26:47,293 INFO Generated content for section: Travel Requirements
+2024-07-16 17:26:47,448 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:47,449 INFO Generating section: GFE/GFI 
+2024-07-16 17:26:47,451 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:26:47,639 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:47,639 INFO Generating section: Special Security Requirements 
+2024-07-16 17:26:47,639 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:26:47,786 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:47,786 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:26:47,786 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:26:47,910 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:26:47,911 INFO Completed document generation
+2024-07-16 17:37:46,009 INFO Creating DocuMint assistants
+2024-07-16 17:37:46,013 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:37:46,013 INFO DocuMint assistants created successfully
+2024-07-16 17:37:49,969 INFO Creating DocuMint assistants
+2024-07-16 17:37:49,970 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:37:49,970 INFO DocuMint assistants created successfully
+2024-07-16 17:37:53,705 INFO Creating DocuMint assistants
+2024-07-16 17:37:53,705 INFO Using Llama 3 LLM
+2024-07-16 17:37:53,705 INFO DocuMint assistants created successfully
+2024-07-16 17:37:54,836 INFO Creating DocuMint assistants
+2024-07-16 17:37:54,837 INFO Using Llama 3 LLM
+2024-07-16 17:37:54,837 INFO DocuMint assistants created successfully
+2024-07-16 17:37:56,107 INFO Creating DocuMint assistants
+2024-07-16 17:37:56,107 INFO Using Llama 3 LLM
+2024-07-16 17:37:56,107 INFO DocuMint assistants created successfully
+2024-07-16 17:37:56,112 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:37:56,112 INFO Generating section: Template Header, PR#
+2024-07-16 17:37:56,112 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:38:09,373 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:38:09,374 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:38:20,369 INFO Generating section: Section II – Background
+2024-07-16 17:38:20,370 INFO Generated content for section: Section II – Background
+2024-07-16 17:38:30,893 INFO Generating section: Section III - Purpose
+2024-07-16 17:38:30,895 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:38:38,723 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:38:38,727 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:39:00,582 INFO Generating section: Contractor Personnel
+2024-07-16 17:39:00,584 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:39:07,357 INFO Generating section: Transition
+2024-07-16 17:39:07,358 INFO Generated content for section: Transition
+2024-07-16 17:39:19,083 INFO Generating section: Deliverables
+2024-07-16 17:39:19,084 INFO Generated content for section: Deliverables
+2024-07-16 17:39:31,645 INFO Generating section: Period of Performance
+2024-07-16 17:39:31,646 INFO Generated content for section: Period of Performance
+2024-07-16 17:39:48,290 INFO Generating section: Place of Performance
+2024-07-16 17:39:48,292 INFO Generated content for section: Place of Performance
+2024-07-16 17:39:51,810 INFO Generating section: Delivery Instructions
+2024-07-16 17:39:51,810 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:39:53,982 INFO Generating section: Travel Requirements
+2024-07-16 17:39:53,986 INFO Generated content for section: Travel Requirements
+2024-07-16 17:40:03,193 INFO Generating section: GFE/GFI 
+2024-07-16 17:40:03,200 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:40:06,809 INFO Generating section: Special Security Requirements 
+2024-07-16 17:40:06,811 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:40:10,348 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:40:10,349 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:40:16,136 INFO Completed document generation
+2024-07-16 17:40:24,163 INFO Creating DocuMint assistants
+2024-07-16 17:40:24,164 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:40:24,164 INFO DocuMint assistants created successfully
+2024-07-16 17:40:25,480 INFO Creating DocuMint assistants
+2024-07-16 17:40:25,484 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:40:25,485 INFO DocuMint assistants created successfully
+2024-07-16 17:40:26,433 INFO Creating DocuMint assistants
+2024-07-16 17:40:26,434 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:40:26,435 INFO DocuMint assistants created successfully
+2024-07-16 17:40:26,452 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:40:26,452 INFO Generating section: Template Header, PR#
+2024-07-16 17:40:26,452 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:40:26,689 ERROR Error generating section 'Template Header, PR#': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:26,690 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:40:26,690 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:40:26,837 ERROR Error generating section 'Section I Task Name, Requisitioning Office': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:26,838 INFO Generating section: Section II – Background
+2024-07-16 17:40:26,838 INFO Generated content for section: Section II – Background
+2024-07-16 17:40:26,970 ERROR Error generating section 'Section II – Background': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:26,972 INFO Generating section: Section III - Purpose
+2024-07-16 17:40:26,972 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:40:27,398 ERROR Error generating section 'Section III - Purpose': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:27,398 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:40:27,399 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:40:27,716 ERROR Error generating section 'Section IV – Technical Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:27,717 INFO Generating section: Contractor Personnel
+2024-07-16 17:40:27,717 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:40:27,848 ERROR Error generating section 'Contractor Personnel': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:27,849 INFO Generating section: Transition
+2024-07-16 17:40:27,849 INFO Generated content for section: Transition
+2024-07-16 17:40:27,965 ERROR Error generating section 'Transition': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:27,965 INFO Generating section: Deliverables
+2024-07-16 17:40:27,965 INFO Generated content for section: Deliverables
+2024-07-16 17:40:28,098 ERROR Error generating section 'Deliverables': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:28,099 INFO Generating section: Period of Performance
+2024-07-16 17:40:28,099 INFO Generated content for section: Period of Performance
+2024-07-16 17:40:28,252 ERROR Error generating section 'Period of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:28,252 INFO Generating section: Place of Performance
+2024-07-16 17:40:28,252 INFO Generated content for section: Place of Performance
+2024-07-16 17:40:28,666 ERROR Error generating section 'Place of Performance': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:28,667 INFO Generating section: Delivery Instructions
+2024-07-16 17:40:28,667 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:40:28,814 ERROR Error generating section 'Delivery Instructions': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:28,814 INFO Generating section: Travel Requirements
+2024-07-16 17:40:28,814 INFO Generated content for section: Travel Requirements
+2024-07-16 17:40:29,050 ERROR Error generating section 'Travel Requirements': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:29,050 INFO Generating section: GFE/GFI 
+2024-07-16 17:40:29,051 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:40:29,176 ERROR Error generating section 'GFE/GFI ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:29,177 INFO Generating section: Special Security Requirements 
+2024-07-16 17:40:29,177 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:40:29,306 ERROR Error generating section 'Special Security Requirements ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:29,307 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:40:29,307 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:40:29,426 ERROR Error generating section 'Section V – Applicable Documents ': Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 17:40:29,426 INFO Completed document generation
+2024-07-16 17:41:10,646 INFO Creating DocuMint assistants
+2024-07-16 17:41:10,648 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:41:10,648 INFO DocuMint assistants created successfully
+2024-07-16 17:41:10,758 INFO Creating DocuMint assistants
+2024-07-16 17:41:10,759 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:41:10,759 INFO DocuMint assistants created successfully
+2024-07-16 17:47:43,119 INFO Creating DocuMint assistants
+2024-07-16 17:47:43,123 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:47:43,123 INFO DocuMint assistants created successfully
+2024-07-16 17:47:45,613 INFO Creating DocuMint assistants
+2024-07-16 17:47:45,613 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:47:45,614 INFO DocuMint assistants created successfully
+2024-07-16 17:47:46,812 INFO Creating DocuMint assistants
+2024-07-16 17:47:46,812 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:47:46,813 INFO DocuMint assistants created successfully
+2024-07-16 17:47:48,275 INFO Creating DocuMint assistants
+2024-07-16 17:47:48,276 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:47:48,276 INFO DocuMint assistants created successfully
+2024-07-16 17:47:48,287 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:47:48,287 INFO Generating section: Template Header, PR#
+2024-07-16 17:47:48,287 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:47:50,412 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:47:50,413 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:47:55,240 INFO Generating section: Section II – Background
+2024-07-16 17:47:55,242 INFO Generated content for section: Section II – Background
+2024-07-16 17:48:02,072 INFO Generating section: Section III - Purpose
+2024-07-16 17:48:02,073 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:48:07,920 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:48:07,922 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:48:23,997 INFO Generating section: Contractor Personnel
+2024-07-16 17:48:23,999 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:48:31,273 INFO Generating section: Transition
+2024-07-16 17:48:31,274 INFO Generated content for section: Transition
+2024-07-16 17:48:40,006 INFO Generating section: Deliverables
+2024-07-16 17:48:40,007 INFO Generated content for section: Deliverables
+2024-07-16 17:48:46,778 INFO Generating section: Period of Performance
+2024-07-16 17:48:46,780 INFO Generated content for section: Period of Performance
+2024-07-16 17:48:53,698 INFO Generating section: Place of Performance
+2024-07-16 17:48:53,699 INFO Generated content for section: Place of Performance
+2024-07-16 17:48:58,184 INFO Generating section: Delivery Instructions
+2024-07-16 17:48:58,184 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:49:04,591 INFO Generating section: Travel Requirements
+2024-07-16 17:49:04,592 INFO Generated content for section: Travel Requirements
+2024-07-16 17:49:12,883 INFO Generating section: GFE/GFI 
+2024-07-16 17:49:12,883 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:49:16,006 INFO Generating section: Special Security Requirements 
+2024-07-16 17:49:16,006 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:49:18,908 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:49:18,908 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:49:23,462 INFO Completed document generation
+2024-07-16 17:49:54,760 INFO Creating DocuMint assistants
+2024-07-16 17:49:54,761 INFO Using Claude LLM: claude-3-5-sonnet-20240620
+2024-07-16 17:49:54,761 INFO DocuMint assistants created successfully
+2024-07-16 17:50:16,778 INFO Creating DocuMint assistants
+2024-07-16 17:50:16,779 INFO Using GPT-4o LLM
+2024-07-16 17:50:16,780 INFO DocuMint assistants created successfully
+2024-07-16 17:50:19,753 INFO Creating DocuMint assistants
+2024-07-16 17:50:19,755 INFO Using GPT-4o LLM
+2024-07-16 17:50:19,755 INFO DocuMint assistants created successfully
+2024-07-16 17:50:20,239 INFO Creating DocuMint assistants
+2024-07-16 17:50:20,240 INFO Using GPT-4o LLM
+2024-07-16 17:50:20,240 INFO DocuMint assistants created successfully
+2024-07-16 17:50:20,945 INFO Creating DocuMint assistants
+2024-07-16 17:50:20,946 INFO Using GPT-4o LLM
+2024-07-16 17:50:20,946 INFO DocuMint assistants created successfully
+2024-07-16 17:50:21,892 INFO Creating DocuMint assistants
+2024-07-16 17:50:21,893 INFO Using GPT-4o LLM
+2024-07-16 17:50:21,893 INFO DocuMint assistants created successfully
+2024-07-16 17:50:21,905 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:50:21,905 INFO Generating section: Template Header, PR#
+2024-07-16 17:50:21,906 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:50:25,978 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:50:25,979 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:50:31,070 INFO Generating section: Section II – Background
+2024-07-16 17:50:31,071 INFO Generated content for section: Section II – Background
+2024-07-16 17:50:38,475 INFO Generating section: Section III - Purpose
+2024-07-16 17:50:38,478 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:50:41,667 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:50:41,669 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:50:55,513 INFO Generating section: Contractor Personnel
+2024-07-16 17:50:55,514 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:51:04,701 INFO Generating section: Transition
+2024-07-16 17:51:04,702 INFO Generated content for section: Transition
+2024-07-16 17:51:19,000 INFO Generating section: Deliverables
+2024-07-16 17:51:19,001 INFO Generated content for section: Deliverables
+2024-07-16 17:51:31,590 INFO Generating section: Period of Performance
+2024-07-16 17:51:31,590 INFO Generated content for section: Period of Performance
+2024-07-16 17:51:39,813 INFO Generating section: Place of Performance
+2024-07-16 17:51:39,814 INFO Generated content for section: Place of Performance
+2024-07-16 17:51:43,150 INFO Generating section: Delivery Instructions
+2024-07-16 17:51:43,150 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:51:45,972 INFO Generating section: Travel Requirements
+2024-07-16 17:51:45,972 INFO Generated content for section: Travel Requirements
+2024-07-16 17:51:55,642 INFO Generating section: GFE/GFI 
+2024-07-16 17:51:55,644 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:51:58,818 INFO Generating section: Special Security Requirements 
+2024-07-16 17:51:58,819 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:52:04,473 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:52:04,475 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:52:12,355 INFO Completed document generation
+2024-07-16 17:53:20,602 INFO Creating DocuMint assistants
+2024-07-16 17:53:20,604 INFO Using GPT-4o LLM
+2024-07-16 17:53:20,609 INFO DocuMint assistants created successfully
+2024-07-16 17:53:36,936 INFO Creating DocuMint assistants
+2024-07-16 17:53:36,938 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:53:36,939 INFO DocuMint assistants created successfully
+2024-07-16 17:53:39,074 INFO Creating DocuMint assistants
+2024-07-16 17:53:39,075 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:53:39,075 INFO DocuMint assistants created successfully
+2024-07-16 17:53:39,656 INFO Creating DocuMint assistants
+2024-07-16 17:53:39,658 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:53:39,659 INFO DocuMint assistants created successfully
+2024-07-16 17:53:40,414 INFO Creating DocuMint assistants
+2024-07-16 17:53:40,415 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:53:40,416 INFO DocuMint assistants created successfully
+2024-07-16 17:53:41,511 INFO Creating DocuMint assistants
+2024-07-16 17:53:41,512 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:53:41,514 INFO DocuMint assistants created successfully
+2024-07-16 17:53:41,525 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 17:53:41,525 INFO Generating section: Template Header, PR#
+2024-07-16 17:53:41,526 INFO Generated content for section: Template Header, PR#
+2024-07-16 17:53:46,442 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 17:53:46,443 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 17:54:00,387 INFO Generating section: Section II – Background
+2024-07-16 17:54:00,388 INFO Generated content for section: Section II – Background
+2024-07-16 17:54:16,650 INFO Generating section: Section III - Purpose
+2024-07-16 17:54:16,651 INFO Generated content for section: Section III - Purpose
+2024-07-16 17:54:29,959 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 17:54:29,960 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 17:55:17,270 INFO Generating section: Contractor Personnel
+2024-07-16 17:55:17,271 INFO Generated content for section: Contractor Personnel
+2024-07-16 17:55:30,516 INFO Generating section: Transition
+2024-07-16 17:55:30,516 INFO Generated content for section: Transition
+2024-07-16 17:55:54,746 INFO Generating section: Deliverables
+2024-07-16 17:55:54,747 INFO Generated content for section: Deliverables
+2024-07-16 17:55:58,641 INFO Generating section: Period of Performance
+2024-07-16 17:55:58,644 INFO Generated content for section: Period of Performance
+2024-07-16 17:56:11,418 INFO Generating section: Place of Performance
+2024-07-16 17:56:11,419 INFO Generated content for section: Place of Performance
+2024-07-16 17:56:15,247 INFO Generating section: Delivery Instructions
+2024-07-16 17:56:15,252 INFO Generated content for section: Delivery Instructions
+2024-07-16 17:56:24,744 INFO Generating section: Travel Requirements
+2024-07-16 17:56:24,744 INFO Generated content for section: Travel Requirements
+2024-07-16 17:56:37,347 INFO Generating section: GFE/GFI 
+2024-07-16 17:56:37,354 INFO Generated content for section: GFE/GFI 
+2024-07-16 17:56:42,054 INFO Generating section: Special Security Requirements 
+2024-07-16 17:56:42,055 INFO Generated content for section: Special Security Requirements 
+2024-07-16 17:56:43,894 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 17:56:43,895 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 17:56:53,594 INFO Completed document generation
+2024-07-16 17:58:02,092 INFO Creating DocuMint assistants
+2024-07-16 17:58:02,092 INFO Using Claude LLM: claude-3-opus-20240229
+2024-07-16 17:58:02,094 INFO DocuMint assistants created successfully

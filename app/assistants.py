@@ -1,5 +1,8 @@
 from phi.assistant import Assistant
 from phi.llm.anthropic import Claude
+from phi.llm.ollama import Ollama
+from phi.llm.openai import OpenAIChat
+
 from app.logger import assistant_logger
 import os
 import re
@@ -8,14 +11,33 @@ import re
 anthropic_api_key = os.environ.get('ANTHROPIC_API_KEY')
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
+print(f"Anthropic API Key: {anthropic_api_key}")
+print(f"OpenAI API Key: {openai_api_key}")
+
 # Import the sow_section_mapping from utils.py
 from app.utils import sow_section_mapping
 
-def create_documint_assistants(anthropic_api_key):
+def create_documint_assistants(model, anthropic_api_key=None, openai_api_key=None):
     assistant_logger.info("Creating DocuMint assistants")
-    documint_orchestrator = Assistant(
+    
+    if model.startswith("claude"):
+        llm = Claude(model=model, api_key=anthropic_api_key)
+        assistant_logger.info(f"Using Claude LLM: {model}")
+    elif model == "gpt-4o":
+        # llm = OpenAIChat(model=model, api_key=openai_api_key, max_tokens=500, temperature=0.3)
+        llm = OpenAIChat(model="gpt-4o")
+        
+        assistant_logger.info("Using GPT-4o LLM")
+    elif model == "llama3":
+        llm = Ollama(model=model)
+        assistant_logger.info("Using Llama 3 LLM")
+    else:
+        raise ValueError(f"Unsupported model: {model}")
+    
+    documint_orchestrator = Assistant(  
         name="DocuMintOrchestrator",
-        llm=Claude(model="claude-3-5-sonnet-20240620", api_key=anthropic_api_key),
+        # llm=Claude(model="claude-3-5-sonnet-20240620", api_key=anthropic_api_key),
+        llm=llm,
         description="Experienced procurement document orchestrator overseeing the entire generation process.",
         instructions=[
             "Coordinate the overall document generation process",

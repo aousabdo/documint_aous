@@ -8,6 +8,7 @@ from app.question_parser import QuestionParser
 from app.logger import main_logger
 import pypandoc
 import tempfile
+from datetime import datetime
 
 load_dotenv()
 
@@ -31,14 +32,39 @@ def convert_markdown_to_docx(markdown_content):
 def main():
     st.title("DocuMint: AI-Powered Document Generator 📄")
     st.caption("Create professional PR documents for TSA")
+    
+    # Add sidebar for LLM selection
+    st.sidebar.title("LLM Selection")
+    llm_options = {
+      "Claude Sonnet 3.5": "claude-3-5-sonnet-20240620",
+      "Claude Opus": "claude-3-opus-20240229",
+      "GPT-4o": "gpt-4o",
+        "Llama 3": "llama3"
+    }
+
+    selected_llm = st.sidebar.selectbox(
+      "Choose an LLM:",
+      options=list(llm_options.keys()),
+        index=0  # Default to Claude Sonnet 3.5
+    )
+    
+    # Add user name input
+    user_name = st.sidebar.text_input("Enter your name", value="DocuMint_User")
+    
+    
+    selected_llm_model = llm_options[selected_llm]
 
     try:
         anthropic_api_key = os.getenv('ANTHROPIC_API_KEY')
+        openai_api_key = os.getenv('OPENAI_API_KEY')
         if not anthropic_api_key:
             st.error("ANTHROPIC_API_KEY not found in environment variables")
             return
+        if not openai_api_key and selected_llm == "GPT-4o":
+          st.error("OPENAI_API_KEY not found in environment variables")
+          return
 
-        documint_orchestrator = create_documint_assistants(anthropic_api_key)
+        documint_orchestrator = create_documint_assistants(selected_llm_model, anthropic_api_key, openai_api_key)
 
         document_types = {
             "Statement of Work (SOW)": "templates/sow_template.txt",
@@ -90,11 +116,21 @@ def main():
                             st.subheader(f"Generated {selected_doc_type}")
                             st.text_area("Document Content", value=document_content, height=600, key="generated_document_content")
                             
+                            # Create a filename-safe version of the LLM name and document type
+                            safe_llm_name = selected_llm.replace(" ", "_").lower()
+                            safe_doc_type = selected_doc_type.lower().replace(" ", "_").replace("(", "").replace(")", "")
+                            
+                            # Get current date and time
+                            current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
+                            
+                            # Base filename
+                            base_filename = f"{safe_doc_type}_{safe_llm_name}_{user_name}_{current_datetime}"
+                            
                             # Markdown download
                             st.download_button(
                                 label=f"Download {selected_doc_type} as Markdown",
                                 data=document_content,
-                                file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.md",
+                                file_name=f"{base_filename}.md",
                                 mime="text/markdown",
                                 key="download_markdown_button"
                             )
@@ -103,7 +139,7 @@ def main():
                             st.download_button(
                                 label=f"Download {selected_doc_type} as Plain Text",
                                 data=document_content,
-                                file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.txt",
+                                file_name=f"{base_filename}.txt",
                                 mime="text/plain",
                                 key="download_text_button"
                             )
@@ -114,7 +150,7 @@ def main():
                                 st.download_button(
                                     label=f"Download {selected_doc_type} as Word Document",
                                     data=docx_content,
-                                    file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.docx",
+                                    file_name=f"{base_filename}.docx",
                                     mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                                     key="download_word_button"
                                 )
