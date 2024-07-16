@@ -49,7 +49,6 @@ def main():
             questionnaire_responses = create_questionnaire_with_preload(questions)
             if st.button("Submit Pre-loaded Questionnaire", key="submit_preload_button"):
                 st.success("Pre-loaded questionnaire submitted successfully!")
-                # st.write("Pre-loaded responses:", questionnaire_responses)
         else:
             questionnaire_responses = create_questionnaire(questions)
         
@@ -64,19 +63,19 @@ def main():
                             documint_orchestrator,
                             selected_doc_type,
                             template_parser.template_structure,
-                            questionnaire_responses,
-                            {q.id: q.llm_hint for q in questions}  # Using LLM hints as example answers
+                            {str(q.id): questionnaire_responses[q.id] for q in questions},
+                            {str(q.id): q.llm_hint for q in questions}
                         )
                         main_logger.info("Document generation completed")
                         if document_content:
                             st.subheader(f"Generated {selected_doc_type}")
-                            st.text_area("Document Content", value=document_content, height=300, key="generated_document_content")
+                            st.text_area("Document Content", value=document_content, height=600, key="generated_document_content")
                             
                             st.download_button(
                                 label=f"Download {selected_doc_type}",
-                                data=template_parser.fill_template(document_content),
-                                file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.txt",
-                                mime="text/plain",
+                                data=document_content,
+                                file_name=f"generated_{selected_doc_type.lower().replace(' ', '_')}.md",
+                                mime="text/markdown",
                                 key="download_button"
                             )
                             main_logger.info("Document download button created")

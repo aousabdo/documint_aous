@@ -1,11 +1,13 @@
 from phi.assistant import Assistant
 from phi.llm.anthropic import Claude
-from textwrap import dedent
 from app.logger import assistant_logger
 import os
 
 # Get API keys from environment variables
 anthropic_api_key = os.environ.get('ANTHROPIC_API_KEY')
+
+# Import the sow_section_mapping from utils.py
+from app.utils import sow_section_mapping
 
 def create_documint_assistants(anthropic_api_key):
     assistant_logger.info("Creating DocuMint assistants")
@@ -28,75 +30,56 @@ def create_documint_assistants(anthropic_api_key):
 
 def generate_document(orchestrator, document_type, template_structure, questionnaire_responses, example_answers):
     assistant_logger.info(f"Starting document generation for {document_type}")
-    prompt = f"""
-    Generate a {document_type} based on the following information:
-
-    Document Type: {document_type}
-    Template Structure: {template_structure}
-    Questionnaire Responses: {questionnaire_responses}
-    Example Answers: {example_answers}
-
-    Please follow these guidelines:
-    1. Use the template structure to organize the document.
-    2. Incorporate the questionnaire responses into the appropriate sections.
-    3. Reference the example answers for style and content guidance.
-    4. Ensure all required sections are completed.
-    5. Maintain a professional tone and use appropriate terminology for DHS TSA procurement.
-    6. Adapt the content based on the specific document type (SOW, PWS, SOO).
-
-    Generate the complete document content, filling in any missing information with appropriate placeholder text.
-    """
-
-    assistant_logger.info("Sending prompt to orchestrator")
-    try:
-        response = orchestrator.run(prompt)
-        assistant_logger.info("Received response from orchestrator")
+    
+    full_document = ""
+    
+    for section, question_numbers in sow_section_mapping.items():
+        assistant_logger.info(f"Generating section: {section}")
         
-        # Ensure response is a string
-        if isinstance(response, str):
-            full_response = response
-        else:
-            full_response = ''.join(response)
+        section_responses = {
+            q_num: questionnaire_responses.get(q_num, "") for q_num in question_numbers
+        }
+        section_examples = {
+            q_num: example_answers.get(q_num, "") for q_num in question_numbers
+        }
         
-        assistant_logger.info(f"Generated content (first 100 chars): {full_response[:100]}...")
-        return full_response
-    except Exception as e:
-        assistant_logger.error(f"Error in generate_document: {str(e)}")
-        raise
-
-    assistant_logger.info(f"Starting document generation for {document_type}")
-    prompt = f"""
-    Generate a {document_type} based on the following information:
-
-    Document Type: {document_type}
-    Template Structure: {template_structure}
-    Questionnaire Responses: {questionnaire_responses}
-    Example Answers: {example_answers}
-
-    Please follow these guidelines:
-    1. Use the template structure to organize the document.
-    2. Incorporate the questionnaire responses into the appropriate sections.
-    3. Reference the example answers for style and content guidance.
-    4. Ensure all required sections are completed.
-    5. Maintain a professional tone and use appropriate terminology for DHS TSA procurement.
-    6. Adapt the content based on the specific document type (SOW, PWS, SOO).
-
-    Generate the complete document content, filling in any missing information with appropriate placeholder text.
-    """
-
-    assistant_logger.info("Sending prompt to orchestrator")
-    try:
-        response = orchestrator.run(prompt)
-        assistant_logger.info("Received response from orchestrator")
+        # Find the relevant template structure for this section
+        relevant_structure = next((item for item in template_structure if item['title'] == section), None)
+        structure_content = relevant_structure['content'] if relevant_structure else "No specific structure provided"
         
-        # Handle the response if it's a generator
-        if hasattr(response, '__iter__') and not isinstance(response, str):
-            full_response = ''.join(response)
-        else:
-            full_response = response
-        
-        assistant_logger.info(f"Generated content (first 100 chars): {full_response[:100]}...")
-        return full_response
-    except Exception as e:
-        assistant_logger.error(f"Error in generate_document: {str(e)}")
-        raise
+        prompt = f"""
+        Generate the '{section}' section of the {document_type} based on the following information:
+
+        Section: {section}
+        Relevant Template Structure: {structure_content}
+        Questionnaire Responses: {section_responses}
+        Example Answers: {section_examples}
+
+        Please follow these guidelines:
+        1. Focus only on generating content for the '{section}' section.
+        2. Incorporate the relevant questionnaire responses into this section.
+        3. Reference the example answers for style and content guidance.
+        4. Ensure the section is complete and detailed.
+        5. Maintain a professional tone and use appropriate terminology for DHS TSA procurement.
+        6. Adapt the content based on the specific document type ({document_type}).
+
+        Generate the complete content for this section, filling in any missing information with appropriate placeholder text.
+        """
+
+        try:
+            response = orchestrator.run(prompt)
+            assistant_logger.info(f"Generated content for section: {section}")
+            
+            if isinstance(response, str):
+                section_content = response
+            else:
+                section_content = ''.join(response)
+            
+            full_document += f"\n\n## {section}\n\n{section_content}"
+            
+        except Exception as e:
+            assistant_logger.error(f"Error generating section '{section}': {str(e)}")
+            full_document += f"\n\n## {section}\n\nError generating this section."
+
+    assistant_logger.info("Completed document generation")
+    return full_document

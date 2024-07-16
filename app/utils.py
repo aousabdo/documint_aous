@@ -11,7 +11,7 @@ import os
 
 from functools import lru_cache
 
-from .sow_template import SOW_TEMPLATE, TEMPLATE_SECTIONS
+# from .sow_template import SOW_TEMPLATE, TEMPLATE_SECTIONS
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)

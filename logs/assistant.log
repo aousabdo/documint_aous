@@ -1103,3 +1103,150 @@
 2024-07-16 12:48:54,189 INFO DocuMint assistants created successfully
 2024-07-16 12:48:54,189 INFO DocuMint assistants created successfully
 2024-07-16 12:48:54,189 INFO DocuMint assistants created successfully
+2024-07-16 13:44:16,553 INFO Creating DocuMint assistants
+2024-07-16 13:44:16,559 INFO DocuMint assistants created successfully
+2024-07-16 13:44:18,524 INFO Creating DocuMint assistants
+2024-07-16 13:44:18,524 INFO DocuMint assistants created successfully
+2024-07-16 13:44:20,364 INFO Creating DocuMint assistants
+2024-07-16 13:44:20,368 INFO DocuMint assistants created successfully
+2024-07-16 13:44:22,154 INFO Creating DocuMint assistants
+2024-07-16 13:44:22,155 INFO DocuMint assistants created successfully
+2024-07-16 13:44:22,164 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 13:44:22,165 INFO Sending prompt to orchestrator
+2024-07-16 13:44:22,165 INFO Received response from orchestrator
+2024-07-16 13:44:22,393 ERROR Error in generate_document: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 13:46:32,148 INFO Creating DocuMint assistants
+2024-07-16 13:46:32,150 INFO DocuMint assistants created successfully
+2024-07-16 13:46:33,767 INFO Creating DocuMint assistants
+2024-07-16 13:46:33,767 INFO DocuMint assistants created successfully
+2024-07-16 13:46:34,903 INFO Creating DocuMint assistants
+2024-07-16 13:46:34,903 INFO DocuMint assistants created successfully
+2024-07-16 13:46:36,082 INFO Creating DocuMint assistants
+2024-07-16 13:46:36,082 INFO DocuMint assistants created successfully
+2024-07-16 13:46:36,090 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 13:46:36,091 INFO Sending prompt to orchestrator
+2024-07-16 13:46:36,091 INFO Received response from orchestrator
+2024-07-16 13:46:36,343 ERROR Error in generate_document: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 13:47:25,846 INFO Creating DocuMint assistants
+2024-07-16 13:47:25,850 INFO DocuMint assistants created successfully
+2024-07-16 13:47:27,392 INFO Creating DocuMint assistants
+2024-07-16 13:47:27,394 INFO DocuMint assistants created successfully
+2024-07-16 13:47:28,424 INFO Creating DocuMint assistants
+2024-07-16 13:47:28,426 INFO DocuMint assistants created successfully
+2024-07-16 13:47:29,565 INFO Creating DocuMint assistants
+2024-07-16 13:47:29,565 INFO DocuMint assistants created successfully
+2024-07-16 13:47:29,575 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 13:47:29,575 INFO Sending prompt to orchestrator
+2024-07-16 13:47:29,575 INFO Received response from orchestrator
+2024-07-16 13:47:29,757 ERROR Error in generate_document: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}
+2024-07-16 13:47:32,404 INFO Creating DocuMint assistants
+2024-07-16 13:47:32,405 INFO DocuMint assistants created successfully
+2024-07-16 13:47:37,416 INFO Creating DocuMint assistants
+2024-07-16 13:47:37,416 INFO DocuMint assistants created successfully
+2024-07-16 13:51:01,589 INFO Creating DocuMint assistants
+2024-07-16 13:51:01,592 INFO DocuMint assistants created successfully
+2024-07-16 13:51:03,268 INFO Creating DocuMint assistants
+2024-07-16 13:51:03,269 INFO DocuMint assistants created successfully
+2024-07-16 13:51:04,498 INFO Creating DocuMint assistants
+2024-07-16 13:51:04,498 INFO DocuMint assistants created successfully
+2024-07-16 13:51:05,751 INFO Creating DocuMint assistants
+2024-07-16 13:51:05,754 INFO DocuMint assistants created successfully
+2024-07-16 13:51:05,766 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 13:51:05,767 INFO Sending prompt to orchestrator
+2024-07-16 13:51:05,767 INFO Received response from orchestrator
+2024-07-16 13:51:26,119 INFO Generated content (first 100 chars): # Statement of Work (SOW)
+
+## Contents
+
+1. [REQUIREMENTS INFORMATION](#requirements-information)
+2. ...
+2024-07-16 13:52:32,281 INFO Creating DocuMint assistants
+2024-07-16 13:52:32,282 INFO DocuMint assistants created successfully
+2024-07-16 14:02:45,410 INFO Creating DocuMint assistants
+2024-07-16 14:02:45,414 INFO DocuMint assistants created successfully
+2024-07-16 14:02:46,785 INFO Creating DocuMint assistants
+2024-07-16 14:02:46,785 INFO DocuMint assistants created successfully
+2024-07-16 14:02:47,621 INFO Creating DocuMint assistants
+2024-07-16 14:02:47,623 INFO DocuMint assistants created successfully
+2024-07-16 14:02:48,891 INFO Creating DocuMint assistants
+2024-07-16 14:02:48,892 INFO DocuMint assistants created successfully
+2024-07-16 14:02:48,911 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 14:02:48,911 INFO Generating section: Template Header, PR#
+2024-07-16 14:04:14,801 INFO Creating DocuMint assistants
+2024-07-16 14:04:14,802 INFO DocuMint assistants created successfully
+2024-07-16 14:04:14,895 INFO Creating DocuMint assistants
+2024-07-16 14:04:14,895 INFO DocuMint assistants created successfully
+2024-07-16 14:04:17,119 INFO Creating DocuMint assistants
+2024-07-16 14:04:17,121 INFO DocuMint assistants created successfully
+2024-07-16 14:04:17,935 INFO Creating DocuMint assistants
+2024-07-16 14:04:17,936 INFO DocuMint assistants created successfully
+2024-07-16 14:04:18,816 INFO Creating DocuMint assistants
+2024-07-16 14:04:18,817 INFO DocuMint assistants created successfully
+2024-07-16 14:04:18,829 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 14:04:18,830 INFO Generating section: Template Header, PR#
+2024-07-16 14:04:18,830 INFO Generated content for section: Template Header, PR#
+2024-07-16 14:04:24,015 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 14:04:24,017 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 14:04:31,168 INFO Generating section: Section II – Background
+2024-07-16 14:04:31,170 INFO Generated content for section: Section II – Background
+2024-07-16 14:04:38,729 INFO Generating section: Section III - Purpose
+2024-07-16 14:04:38,731 INFO Generated content for section: Section III - Purpose
+2024-07-16 14:04:44,379 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 14:04:44,381 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 14:05:02,155 INFO Generating section: Contractor Personnel
+2024-07-16 14:05:02,156 INFO Generated content for section: Contractor Personnel
+2024-07-16 14:05:12,107 INFO Generating section: Transition
+2024-07-16 14:05:12,108 INFO Generated content for section: Transition
+2024-07-16 14:05:23,997 INFO Generating section: Deliverables
+2024-07-16 14:05:23,999 INFO Generated content for section: Deliverables
+2024-07-16 14:05:31,724 INFO Generating section: Period of Performance
+2024-07-16 14:05:31,726 INFO Generated content for section: Period of Performance
+2024-07-16 14:05:39,454 INFO Generating section: Place of Performance
+2024-07-16 14:05:39,458 INFO Generated content for section: Place of Performance
+2024-07-16 14:05:48,411 INFO Generating section: Delivery Instructions
+2024-07-16 14:05:48,413 INFO Generated content for section: Delivery Instructions
+2024-07-16 14:05:56,145 INFO Generating section: Travel Requirements
+2024-07-16 14:05:56,146 INFO Generated content for section: Travel Requirements
+2024-07-16 14:06:04,701 INFO Generating section: GFE/GFI 
+2024-07-16 14:06:04,703 INFO Generated content for section: GFE/GFI 
+2024-07-16 14:06:10,273 INFO Generating section: Special Security Requirements 
+2024-07-16 14:06:10,274 INFO Generated content for section: Special Security Requirements 
+2024-07-16 14:06:15,633 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 14:06:15,633 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 14:06:23,237 INFO Completed document generation
+2024-07-16 14:10:54,254 INFO Creating DocuMint assistants
+2024-07-16 14:10:54,255 INFO DocuMint assistants created successfully
+2024-07-16 14:12:10,814 INFO Creating DocuMint assistants
+2024-07-16 14:12:10,815 INFO DocuMint assistants created successfully
+2024-07-16 14:12:10,825 INFO Starting document generation for Statement of Work (SOW)
+2024-07-16 14:12:10,825 INFO Generating section: Template Header, PR#
+2024-07-16 14:12:10,825 INFO Generated content for section: Template Header, PR#
+2024-07-16 14:12:15,009 INFO Generating section: Section I Task Name, Requisitioning Office
+2024-07-16 14:12:15,010 INFO Generated content for section: Section I Task Name, Requisitioning Office
+2024-07-16 14:12:21,954 INFO Generating section: Section II – Background
+2024-07-16 14:12:21,955 INFO Generated content for section: Section II – Background
+2024-07-16 14:12:27,055 INFO Generating section: Section III - Purpose
+2024-07-16 14:12:27,055 INFO Generated content for section: Section III - Purpose
+2024-07-16 14:12:33,161 INFO Generating section: Section IV – Technical Requirements
+2024-07-16 14:12:33,163 INFO Generated content for section: Section IV – Technical Requirements
+2024-07-16 14:12:49,124 INFO Generating section: Contractor Personnel
+2024-07-16 14:12:49,125 INFO Generated content for section: Contractor Personnel
+2024-07-16 14:12:58,699 INFO Generating section: Transition
+2024-07-16 14:12:58,702 INFO Generated content for section: Transition
+2024-07-16 14:13:09,461 INFO Generating section: Deliverables
+2024-07-16 14:13:09,464 INFO Generated content for section: Deliverables
+2024-07-16 14:13:19,111 INFO Generating section: Period of Performance
+2024-07-16 14:13:19,112 INFO Generated content for section: Period of Performance
+2024-07-16 14:13:29,670 INFO Generating section: Place of Performance
+2024-07-16 14:13:29,672 INFO Generated content for section: Place of Performance
+2024-07-16 14:13:38,571 INFO Generating section: Delivery Instructions
+2024-07-16 14:13:38,573 INFO Generated content for section: Delivery Instructions
+2024-07-16 14:13:45,714 INFO Generating section: Travel Requirements
+2024-07-16 14:13:45,716 INFO Generated content for section: Travel Requirements
+2024-07-16 14:13:56,486 INFO Generating section: GFE/GFI 
+2024-07-16 14:13:56,487 INFO Generated content for section: GFE/GFI 
+2024-07-16 14:14:00,596 INFO Generating section: Special Security Requirements 
+2024-07-16 14:14:00,597 INFO Generated content for section: Special Security Requirements 
+2024-07-16 14:14:06,857 INFO Generating section: Section V – Applicable Documents 
+2024-07-16 14:14:06,858 INFO Generated content for section: Section V – Applicable Documents 
+2024-07-16 14:14:14,385 INFO Completed document generation
