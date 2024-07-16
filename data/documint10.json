@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "question": "Is this an IT requirement?",
+        "metadata": {
+            "userHint": "Explanation If IT related services or supplies are included in the requirement, an ITAR review is required. A yes answer triggers incorporation of the TSA Enterprise Architecture and Cybersecurity language required by CIO.",
+            "llmHint": "Example Answer Yes",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 2,
+        "question": "What is the Name of the program?",
+        "metadata": {
+            "userHint": "Explanation: The name of the program should match the name of the PR. Some examples are Focused Operations Services, Microsoft License Renewal, Personnel, Payroll and Benefits (PPBE)",
+            "llmHint": "Example Answer Cisco Annual Licensing, Support and Core Maintenance",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 3,
+        "question": "What is the requiring activity?",
+        "metadata": {
+            "userHint": "i.e. Program Office should start with TSA, then Office, Division, Branch if applicable",
+            "llmHint": "Example Answer Transportation Security Administration (TSA), Information Technology (IT), Operations and Engineering Division (OED)",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 4,
+        "question": "What is the background information relative to this requirement?",
+        "metadata": {
+            "userHint": "Provide relevant background information that will be useful to contractors in understanding the need for the services and to assist the contractors in understanding how TSA past practices or current policies could impact future efforts.\u00a0 Address any previous contract activities for similar work.",
+            "llmHint": "Example Answer The TSA network infrastructure is comprised of routers, switches, gateways, firewalls, voice over IP servers and other dedicated appliances that deliver high-end integrated networking to all TSA facilities. In addition, several security software modules have been deployed to heighten TSA's security posture to protect against cyber-attack and remediate vulnerabilities. The devices form the integrated network and communications infrastructure and are the Cisco-brand. These products are highly sophisticated, licensed for use on a yearly basis and require continued vendor maintenance and support. In addition, many of the products were acquired over time and by various divisions to address emerging requirements. Many of the services were provided by the Cisco SMARTnet product. Cisco SMARTnet is technical support service that offers direct, anytime access to Cisco engineers and an extensive range of technical resources. SMARTnet delivers rapid issue resolution, flexible device-by-device coverage, and premium service options to help maximize operational efficiency.",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 5,
+        "question": "Why is this needed?",
+        "metadata": {
+            "userHint": "Explanation Describe the mission or statutory requirement the effort is supporting,",
+            "llmHint": "Example Answer The Operations and Engineering Division (OED) requires the renewal of the maintenance and technical support for the Cisco operational devices, software license requirements and expert technical support to avoid interruption of service and device maintenance.",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 6,
+        "question": "What is the problem it is fixing?",
+        "metadata": {
+            "userHint": "Explanation Address the root issue, what has happened that requires this supply/service. For example, the checkpoint is too far away from the potable water supply, therefore, bottled water is needed for the TSOs at the checkpoint.",
+            "llmHint": "Example Answer Maintenance and technical support reduces system and application outages caused by network, connectivity and security related issues across all TSA locations. The TSA network is relied on for access to e-mail, TSA applications, video teleconferencing (VTC), internet connectivity, Voice over IP (VoIP), and other operational uses of desktop and laptop computers. Support is required for Cisco-brand IT equipment through its serviceable life or until replacement",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 7,
+        "question": "Who needs the requirement?",
+        "metadata": {
+            "userHint": "Explanation is it support for TSA HQ operations for overall mission support or direct field support at an airport?",
+            "llmHint": "Example Answer Maintenance is required to support \u00a05,000+ devices and components located within TSA Data Centers and major infrastructure locations.",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of the requirement?",
+        "metadata": {
+            "userHint": "Provide a concise statement that describes the purpose you are trying to achieve. Provide a short scope to present an idea of the size and range. Provide specific result.",
+            "llmHint": "Example Answer The Operations and Engineering Division (OED) requires the renewal of the maintenance and technical support for the Cisco operational devices, software license requirements and expert technical support to avoid interruption of service and device maintenance. This includes the procurement of annual licenses, US Only Help Desk, technical/engineering support and hardware maintenance supporting the TSA and unified communications platforms.\u00a0 Maintenance is required to support \u00a05,000+ devices and components located within TSA Data Centers and major infrastructure locations.\u00a0 Licenses for hardware management and reporting (i.e. StealthWatch, ISE) support 675 sites.",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 9,
+        "question": "Is there a general scope or required range that would be helpful to prospective vendors? \u00a0\n@User -A general scope will provide clarity into the requirement and assist prospective vendors in preparing their proposal to meet the government\u2019s needs. The scope focuses on how the objectives of the action will be accomplished",
+        "metadata": {
+            "userHint": "",
+            "llmHint": "Example Answer Maintenance and technical support reduces system and application outages caused by network, connectivity and security related issues across all TSA locations. The TSA network is relied on for access to e-mail, TSA applications, video teleconferencing (VTC), internet connectivity, Voice over IP (VoIP), and other operational uses of desktop and laptop computers. Support is required for Cisco-brand IT equipment through its serviceable life or until replacement.",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 10,
+        "question": "What is the desired outcome?",
+        "metadata": {
+            "userHint": "Explanation The outcome can be expressed as objectives to be met, successful results, or delivery of a product",
+            "llmHint": "Example Answer Support is required for Cisco-brand IT equipment through its serviceable life or until replacement.",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 11,
+        "question": "What is the technical requirement?",
+        "metadata": {
+            "userHint": "The Requirement document should describe clearly the specific requirements and work required of the contractor. Tasks are activities that are required to produce the deliverables, services and/or outcomes. These should be defined and detailed.",
+            "llmHint": "Example Answer The OED requires the following levels of commercial Cisco SMARTNet support:\n1. 24-7 global access to the Cisco Technical Assistance Center (TAC)\n2. Access to the Cisco.com knowledgebase and tools\n3. Hardware replacement options to include a 4-hour or Next-business-day (NBD) advance replacement, as well as Return for Repair (RFR)\n4. Ongoing operating system software updates including both minor and major releases within the licensed feature set\nCisco Operating System (OS) software support to extend the life of Cisco devices with improved security, increased performance, bandwidth management, new protocol support, and greater interoperability.The requirements for the maintenance and technical support for the Cisco operational devices, including software license requirements and expert technical support, are described in detail below:\nCLIN Description Part Number / SKU Type (License/Maint) \u00a0 Qty \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \n1. Renewal bundle of smartnet services including but not limited to: NCFMU, NCJE, NCJMU, NCJP, NCJT, ECMU, ECMUS, ISV1, SNT, SSSNT, SSTC, SSTC, SSTCM, SWTI \n\u00a0DSI-CON-DHS-257089 Maintenance 12 Months 1 \n2. Cisco Stealthwatch Enterprise XaaS Subscription \u00a0ST-SEC-SU Maintenance 12 Months 1 \n3.\u00a0 Cisco Secure Network Analytics Flow Rate License \u00a0ST-FR-LI Maintenance 12 Months 250,000 \n4. Embedded Online Support for Secure Network Analytics SVS-ST-SEC-SUP-B Maintenance 12 Months 1 \n5.\u00a0 Cisco Identity Service Engine Subscription \u00a0ISE-SEC-SUB Maintenance 12 Months 1 \n6. Cisco Identity Service Engine Advantage Subscription\n\u00a0 ISE-A-LI Maintenance 12 Months 45,000 \n7. Cisco Identity Service Engine Premier Subscription \u00a0ISE-P-LI Maintenance 12 Months 73,500 \n8. Basic Support for Identity Service Engine Subscription \u00a0SVS-ISE-SUP-B Maintenance 12 Months 1 \n9. Expert Care National (Incident Management & Problem Resolution) CON-CXEN-XA-EN Service 12 Months 1 \n10. Subject Matter Expert Quick Start Consulting Service Data Center Specialist (Total 400 hours) CX-ATCS-DC-QSME Service 100 Hours 4 \n11. Subject Matter Expert Quick Start Consulting Service Collaboration Specialist (Total 400 hours) CX-ATCS-CO-QSME Service 100 Hours 4 \n12. Subject Matter Expert Quick Start Consulting Service Network Specialist (Total 100 hours) CX-ATCS-NW-QSME Service 100 Hours 1 \nSee attached Bill of Materials (BOM) for specifics on covered devices.",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 12,
+        "question": "Is there any pertinent technical information that potential vendors need to be aware of?",
+        "metadata": {
+            "userHint": "For example: historical data relating to the effort, number of cases, baggage throughput, airport size etc. If all technical information has been provided, answer \u201cno further information is needed.\u201d",
+            "llmHint": "Example Answer no further information is needed",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 13,
+        "question": "What are the specific tasks that are required of the Contractor? The specific details regarding the required effort must be provided. If this is a service effort, the hours of availability must be addressed, 8-5, 24/7, etc.",
+        "metadata": {
+            "userHint": "Explanation The specific details regarding the required effort must be provided. If this is a service effort, the hours of availability must be addressed, 8-5, 24/7, etc",
+            "llmHint": "Example Answer TSA requires Cisco Technical Services to support and maintain the devices or appliances within the TSA IT infrastructure. These devices require continued vendor maintenance and support through Cisco Technical Services. Cisco Technical Services are utilized to audit and provide best practices employed throughout the enterprise, thus ensuring optimum functionality. Cisco Technical Services provides the following levels of support:\n1. Proactive collaboration with TSA OED personnel to provide network lifecycle services including Plan, Design, Implementation, Operations and Optimization assistance delivered to achieve the TSA's mission goals and objectives.\n2. Unified Communications (UC) Network Consulting Engineers (NCE) configuration service to set-up unified communications serviceability tools along with leading practice recommendations within the customers unified communications operations environment.\n3. Assist in TSA OED engineer with implementation of scheduled changes that may or may not be directly related to a TAC case.\n4. Assist the TSA in the operation and maintenance of an effective converged network with proper software assessment and risk analysis of Cisco Unified Communications system components.\n5. Preserve TSA Cisco Unified Communications infrastructure operating at high performance levels through personal interaction, reporting, and remediation that assists TSA in the process of optimizing and refining performance.\n6. Develop a comprehensive growth plan addressing current and future capacity and functionality requirements to meet TSA's converged network changing business needs.\n7. Provide training on Cisco product troubleshooting and best practices as identified through reactive support assistance.\n8. Determine the upgrade and patch strategy solution based on the customer's operational requirements.\n9. Perform analysis of how Product Security Incident Response Team (PSIRT) notifications will impact the Customer's Unified Communications solution.\n10. Assist the customer and TAC or Remote Operations Services (ROS) with the resolution of any specific unified communications and network incident that has been raised as a Pl/ P2 TAC/ROS case.\n11. Provide knowledge transfer and mentoring, white papers, design guides, training documentation, deployment guides, etc.\n12. Provide Annual Security Architecture Review to identify network security vulnerabilities and deviations from security best practices and TSA's pre-defined security policy.\n13. Provide Cisco certified engineers that are US Citizens in accordance with DHS Policy 4300A, ID# 4.1.1.e.\n14. Provide High-Touch Operations Management with Escalations and Entitlement Support; Cisco High-Touch is a premium technical support service that gives TSA priority access to engineers to respond to critical issues.\n15. Provide US Citizen (also known as \u201cClassified\u201d) High Touch TAC support with data protection, Secure Case Management, and Leveraging SME's across Cisco global as required. Note: The term \u201cClassified\u201d is a Cisco specific term and does not relate to the TSA classification level. TSA only requires US Citizen for troubleshooting but Cisco using the term \u201cClassified\u201d for that level of support. \nThis contract shall not preclude any licenses renewed under this contract from being incorporated into a future overarching OHS-wide Enterprise Agreement(s).",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 14,
+        "question": "Provide any security requirements",
+        "metadata": {
+            "userHint": "i.e., information/physical Security, access to buildings/access to network/vetting/clearances. Insert TSA Requirements language as applicable. If there are no security requirements, answer \u201cnone\u201d, or \u201cnot applicable\u201d)",
+            "llmHint": "Example Answer none",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 15,
+        "question": "What are the vendor personnel training requirements?",
+        "metadata": {
+            "userHint": "Explanation use this section to address any training requirements of the vendor during on boarding and performance.\u00a0 Examples include any OLC training for use of Government computers, security, etc. Do not include training that is already stated elsewhere, i.e. through 52.224-3 Alt-1 or in ITAR language.. Insert TSA Requirements language as applicable. If there are no Vendor personnel training requirements, answer \u201cnone\u201d or \u201cnot applicable\u201d",
+            "llmHint": "Example Answer none",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 16,
+        "question": "Is there any required travel? Describe any limitations related to vendor travel, as well as any reimbursement process, as applicable.",
+        "metadata": {
+            "userHint": "Explanation If travel is a requirement for accomplishment of the services describe any limitations related to vendor travel, as well as any reimbursement process, as applicable.\u00a0 Cite the Federal Travel Regulation (FTR) as applicable",
+            "llmHint": "Example Answer No travel is authorized under this order",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 17,
+        "question": "What is the base period of performance? (express in mm/dd/yyyy \u2013 mm/dd/yyyy format)",
+        "metadata": {
+            "userHint": "Explanation This is the initial period of performance that is funded. If the action is to be incrementally funded due to a Continuing Resolution, include the full period that would be funded otherwise. Transition In needs to be included in the calculation.",
+            "llmHint": "Example Answer The Period of Performance is 9/21/2023-9/20/2024",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 18,
+        "question": "Are there anticipated option periods?",
+        "metadata": {
+            "userHint": "Explanation provide the number of option periods and length for each. If there are no option periods anticipated, answer \u201cnone\u201d or \u201cnot applicable\u201d.",
+            "llmHint": "Example Answer no",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 19,
+        "question": "What are the deliverables and schedule?",
+        "metadata": {
+            "userHint": "Service type deliverables (reports) should be clearly defined with submittal dates, format requirements and periodicity. Specify electronic or physical delivery of reports and recipients.\u00a0 Electronic delivery must address limitations on size.\u00a0 Supplies/Hardware should include quantity delivered, time and place.",
+            "llmHint": "Example Answer Electronic copies of each deliverable shall be submitted to the Contract Officer\u2019s Representative (COR) in Microsoft Office format via e-mail. In the event of non-conformance, the Government will provide written rejection of a deliverable within ten (10) business days from receipt by the Government of the deliverable; otherwise the deliverable shall be deemed accepted. In the event of rejection by the Government, the contractor shall have five (5) business days from receipt of the Government\u2019s comments to incorporate the Government\u2019s comments and/or change requests associated with such rejected deliverable and to resubmit the deliverable. The contractor shall assume that a deliverable has been accepted if it is not notified by the Government that the Government has rejected the deliverable within ten (10) business days after the Government\u2019s receipt.\nA quarterly report (in Microsoft Excel) shall be delivered to the COR no later than the 30th of the month, in the last month of the quarter. The report shall include a listing of:\n1. Product Number\n2. Product Description\n3. Serial Number\n4. Service Level Description\n5. SKU\n6. Start and end dates of support\n7. End-Of-Life dates (if announced by manufacturer)\n8. End-Of-Service Life dates (if announced by manufacturer)\nEnd-Of-Software-Support dates (if announced by manufacturer each carton with information identifying the contract number, the order number, a description of the hardware/software enclosed manufacturer name, model number, serial number), and the customer point of contact.\nThe Contractor shall deliver and make available all manufacturer (Cisco) released software/hardware updates, patches, bugs and fixes, within thirty (30) days.",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 20,
+        "question": "Are there any packaging/marking/shipping instructions for the deliverables? Provide the instructions.",
+        "metadata": {
+            "userHint": "Provide Shipping address, email addresses, etc. Insert TSA Requirements language as applicable. If there are no packaging/marking/shipping instructions, answer \u201cnone\u201d or \u201cnot applicable\u201d. etc.",
+            "llmHint": "Example Answer not applicable",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 21,
+        "question": "Where is the work to be performed?",
+        "metadata": {
+            "userHint": "List all locations. Identify if work is to be performed remotely.",
+            "llmHint": "Example Answer All licenses shall be delivered electronically within ten (10) days to: John.German@tsa.dhs.gov",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 22,
+        "question": "Is there a specific number of hours, level of effort or manhours stipulated by the Government? What are they?",
+        "metadata": {
+            "userHint": "Explanation Providing the estimated number of hours/LOE/FTEs provides clarity into the general scope of the effort.\u00a0 If they are not known, or do not apply, answer \u201cNo\u201d or \u201cnot applicable\u201d.",
+            "llmHint": "Example Answer not applicable",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 23,
+        "question": "Are there specific Labor Categories (LCATs) required by the Government to perform the effort?",
+        "metadata": {
+            "userHint": "Explanation -if the Government has stipulated specific labor categories for the services to be provided, the categories need to be listed.\u00a0 This information may also be listed under Key Personnel qualifications and requirements. If they are not known, or do not apply, answer \u201cNo\u201d or \u201cnot applicable",
+            "llmHint": "Example Answer not applicable",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 24,
+        "question": "Is there any Key Personnel that must be identified in the resulting contract? What are the qualifications and requirements for all key personnel?",
+        "metadata": {
+            "userHint": "Explanation Identifying the Key Personnel provides clarity into the critical aspects of the requirement., Provide those labor categories that are to be identified as Key, as well as any applicable skill level, such as journeyman, entry level. .\u00a0 If they are not known, or do not apply, answer \u201cNo\u201d or \u201cnot applicable..",
+            "llmHint": "Example Answer not applicable",
+            "optional": true,
+            "required": false
+        }
+    },
+    {
+        "id": 25,
+        "question": "Is there any Government Furnished Equipment (GFE) or Information (GFI) to be provided? Describe what is to be provided, when it is to be provided and by whom.",
+        "metadata": {
+            "userHint": "Explanation Describe what is to be provided, when it is to be provided and by whom. If no GFE or GFI is to be provided, answer \u201cnone\u201d or \u201cnot applicable\u201d.",
+            "llmHint": "Example Answer No GFE to be provided",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 26,
+        "question": "Describe any Transition in and Transition out requirements required for the effort.",
+        "metadata": {
+            "userHint": "Explanation Address the activities that will be required of the vendor while onboarding/transitioning from the previous contractor.\u00a0 At the end of the contract period, address what transition out activities are required. If transition is not included in the effort, answer \u201cnone\u201d or \u201cnot applicable\u201d.",
+            "llmHint": "Example Answer none",
+            "optional": false,
+            "required": true
+        }
+    },
+    {
+        "id": 27,
+        "question": "What are the Government Specifications, Standards and Executive Orders, etc. that must be adhered to in accomplishing this effort?",
+        "metadata": {
+            "userHint": "Explanation Provide a listing of required policies, standards, guidelines and statutory requirements that must be followed. As applicable, the ITAR language, as well as 508 Compliance terms will be inserted here also.",
+            "llmHint": "Example Answer ITAR language, 508, C-SCRM",
+            "optional": false,
+            "required": true
+        }
+    }
+]

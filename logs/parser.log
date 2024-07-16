@@ -1,0 +1,2161 @@
+2024-07-15 15:24:39,083 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:24:39,302 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:24:46,761 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:29:47,090 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:29:48,589 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:30:14,853 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:30:17,447 INFO Parsing template structure: templates/pws_template.docx
+2024-07-15 15:30:18,093 INFO Parsing template structure: templates/pws_template.docx
+2024-07-15 15:33:34,455 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:33:35,100 INFO Parsing template structure: templates/pws_template.docx
+2024-07-15 15:33:35,794 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:37:37,847 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:37:38,894 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:54:04,309 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:54:06,663 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:54:07,877 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:54:10,865 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:54:12,650 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:56:10,859 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:56:11,177 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:56:13,687 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:56:17,400 INFO Parsing template structure: templates/pws_template.docx
+2024-07-15 15:56:18,133 INFO Parsing template structure: templates/pws_template.docx
+2024-07-15 15:59:00,813 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:59:06,873 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 15:59:59,297 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:00:00,192 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:00:00,588 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:00:00,753 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:00:01,113 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:01:27,446 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:01:27,640 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 16:01:28,597 INFO Parsing template structure: templates/sow_template.docx
+2024-07-15 21:34:23,875 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:44:58,163 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:45:52,514 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:46:19,244 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:46:30,913 INFO Parsing template structure: templates/pws_template.txt
+2024-07-15 22:46:33,219 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:47:28,345 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:47:28,460 INFO Parsing template structure: templates/sow_template.txt
+2024-07-15 22:51:38,615 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:51:38,616 INFO Parsing template structure
+2024-07-15 22:51:38,616 INFO Parsed 5 main sections
+2024-07-15 22:51:38,616 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:51:38,617 INFO Successfully parsed 27 questions
+2024-07-15 22:51:38,733 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:51:38,733 INFO Parsing template structure
+2024-07-15 22:51:38,733 INFO Parsed 5 main sections
+2024-07-15 22:51:38,733 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:51:38,734 INFO Successfully parsed 27 questions
+2024-07-15 22:51:41,148 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:51:41,149 INFO Parsing template structure
+2024-07-15 22:51:41,149 INFO Parsed 5 main sections
+2024-07-15 22:51:41,150 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:51:41,157 INFO Successfully parsed 27 questions
+2024-07-15 22:53:07,398 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:53:07,399 INFO Parsing template structure
+2024-07-15 22:53:07,399 INFO Parsed 5 main sections
+2024-07-15 22:53:07,399 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:53:07,402 INFO Successfully parsed 27 questions
+2024-07-15 22:53:34,113 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/pws_template.txt
+2024-07-15 22:53:34,115 INFO Parsing template structure
+2024-07-15 22:53:34,116 INFO Parsed 0 main sections
+2024-07-15 22:53:34,116 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:53:34,119 INFO Successfully parsed 27 questions
+2024-07-15 22:53:36,907 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:53:36,909 INFO Parsing template structure
+2024-07-15 22:53:36,909 INFO Parsed 5 main sections
+2024-07-15 22:53:36,909 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:53:36,911 INFO Successfully parsed 27 questions
+2024-07-15 22:56:35,034 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:56:35,035 INFO Parsing template structure
+2024-07-15 22:56:35,035 INFO Parsed 5 main sections
+2024-07-15 22:56:35,035 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:56:35,037 INFO Successfully parsed 27 questions
+2024-07-15 22:56:44,499 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:56:44,500 INFO Parsing template structure
+2024-07-15 22:56:44,500 INFO Parsed 5 main sections
+2024-07-15 22:56:44,500 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:56:44,504 INFO Successfully parsed 27 questions
+2024-07-15 22:56:50,698 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:56:50,698 INFO Parsing template structure
+2024-07-15 22:56:50,699 INFO Parsed 5 main sections
+2024-07-15 22:56:50,699 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:56:50,702 INFO Successfully parsed 27 questions
+2024-07-15 22:56:58,837 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:56:58,838 INFO Parsing template structure
+2024-07-15 22:56:58,838 INFO Parsed 5 main sections
+2024-07-15 22:56:58,838 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:56:58,841 INFO Successfully parsed 27 questions
+2024-07-15 22:57:06,362 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:06,362 INFO Parsing template structure
+2024-07-15 22:57:06,362 INFO Parsed 5 main sections
+2024-07-15 22:57:06,363 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:06,366 INFO Successfully parsed 27 questions
+2024-07-15 22:57:16,390 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:16,391 INFO Parsing template structure
+2024-07-15 22:57:16,392 INFO Parsed 5 main sections
+2024-07-15 22:57:16,392 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:16,395 INFO Successfully parsed 27 questions
+2024-07-15 22:57:23,334 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:23,335 INFO Parsing template structure
+2024-07-15 22:57:23,335 INFO Parsed 5 main sections
+2024-07-15 22:57:23,336 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:23,339 INFO Successfully parsed 27 questions
+2024-07-15 22:57:30,623 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:30,624 INFO Parsing template structure
+2024-07-15 22:57:30,624 INFO Parsed 5 main sections
+2024-07-15 22:57:30,625 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:30,627 INFO Successfully parsed 27 questions
+2024-07-15 22:57:37,690 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:37,691 INFO Parsing template structure
+2024-07-15 22:57:37,692 INFO Parsed 5 main sections
+2024-07-15 22:57:37,692 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:37,695 INFO Successfully parsed 27 questions
+2024-07-15 22:57:42,821 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:42,822 INFO Parsing template structure
+2024-07-15 22:57:42,822 INFO Parsed 5 main sections
+2024-07-15 22:57:42,822 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:42,825 INFO Successfully parsed 27 questions
+2024-07-15 22:57:54,560 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:57:54,561 INFO Parsing template structure
+2024-07-15 22:57:54,561 INFO Parsed 5 main sections
+2024-07-15 22:57:54,562 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:57:54,568 INFO Successfully parsed 27 questions
+2024-07-15 22:58:02,629 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:02,631 INFO Parsing template structure
+2024-07-15 22:58:02,631 INFO Parsed 5 main sections
+2024-07-15 22:58:02,632 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:02,634 INFO Successfully parsed 27 questions
+2024-07-15 22:58:16,069 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:16,070 INFO Parsing template structure
+2024-07-15 22:58:16,070 INFO Parsed 5 main sections
+2024-07-15 22:58:16,071 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:16,074 INFO Successfully parsed 27 questions
+2024-07-15 22:58:21,314 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:21,315 INFO Parsing template structure
+2024-07-15 22:58:21,315 INFO Parsed 5 main sections
+2024-07-15 22:58:21,315 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:21,317 INFO Successfully parsed 27 questions
+2024-07-15 22:58:24,175 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:24,176 INFO Parsing template structure
+2024-07-15 22:58:24,176 INFO Parsed 5 main sections
+2024-07-15 22:58:24,177 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:24,179 INFO Successfully parsed 27 questions
+2024-07-15 22:58:31,606 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:31,607 INFO Parsing template structure
+2024-07-15 22:58:31,608 INFO Parsed 5 main sections
+2024-07-15 22:58:31,608 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:31,612 INFO Successfully parsed 27 questions
+2024-07-15 22:58:37,828 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:37,829 INFO Parsing template structure
+2024-07-15 22:58:37,830 INFO Parsed 5 main sections
+2024-07-15 22:58:37,830 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:37,832 INFO Successfully parsed 27 questions
+2024-07-15 22:58:41,469 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:41,470 INFO Parsing template structure
+2024-07-15 22:58:41,470 INFO Parsed 5 main sections
+2024-07-15 22:58:41,470 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:41,480 INFO Successfully parsed 27 questions
+2024-07-15 22:58:54,721 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:54,722 INFO Parsing template structure
+2024-07-15 22:58:54,722 INFO Parsed 5 main sections
+2024-07-15 22:58:54,722 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:54,725 INFO Successfully parsed 27 questions
+2024-07-15 22:58:59,955 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:58:59,956 INFO Parsing template structure
+2024-07-15 22:58:59,957 INFO Parsed 5 main sections
+2024-07-15 22:58:59,957 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:58:59,961 INFO Successfully parsed 27 questions
+2024-07-15 22:59:06,693 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:06,694 INFO Parsing template structure
+2024-07-15 22:59:06,694 INFO Parsed 5 main sections
+2024-07-15 22:59:06,694 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:06,698 INFO Successfully parsed 27 questions
+2024-07-15 22:59:13,364 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:13,364 INFO Parsing template structure
+2024-07-15 22:59:13,365 INFO Parsed 5 main sections
+2024-07-15 22:59:13,365 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:13,367 INFO Successfully parsed 27 questions
+2024-07-15 22:59:16,822 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:16,822 INFO Parsing template structure
+2024-07-15 22:59:16,822 INFO Parsed 5 main sections
+2024-07-15 22:59:16,822 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:16,826 INFO Successfully parsed 27 questions
+2024-07-15 22:59:19,617 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:19,618 INFO Parsing template structure
+2024-07-15 22:59:19,618 INFO Parsed 5 main sections
+2024-07-15 22:59:19,618 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:19,622 INFO Successfully parsed 27 questions
+2024-07-15 22:59:26,146 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:26,150 INFO Parsing template structure
+2024-07-15 22:59:26,150 INFO Parsed 5 main sections
+2024-07-15 22:59:26,150 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:26,156 INFO Successfully parsed 27 questions
+2024-07-15 22:59:31,150 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:31,151 INFO Parsing template structure
+2024-07-15 22:59:31,151 INFO Parsed 5 main sections
+2024-07-15 22:59:31,151 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:31,153 INFO Successfully parsed 27 questions
+2024-07-15 22:59:38,948 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:38,949 INFO Parsing template structure
+2024-07-15 22:59:38,950 INFO Parsed 5 main sections
+2024-07-15 22:59:38,950 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:38,953 INFO Successfully parsed 27 questions
+2024-07-15 22:59:39,034 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:39,037 INFO Parsing template structure
+2024-07-15 22:59:39,038 INFO Parsed 5 main sections
+2024-07-15 22:59:39,038 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:39,042 INFO Successfully parsed 27 questions
+2024-07-15 22:59:49,575 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:49,577 INFO Parsing template structure
+2024-07-15 22:59:49,577 INFO Parsed 5 main sections
+2024-07-15 22:59:49,577 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:49,580 INFO Successfully parsed 27 questions
+2024-07-15 22:59:58,264 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 22:59:58,264 INFO Parsing template structure
+2024-07-15 22:59:58,264 INFO Parsed 5 main sections
+2024-07-15 22:59:58,265 INFO Parsing questions from data/documintv10.txt
+2024-07-15 22:59:58,268 INFO Successfully parsed 27 questions
+2024-07-15 23:00:06,048 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:00:06,049 INFO Parsing template structure
+2024-07-15 23:00:06,049 INFO Parsed 5 main sections
+2024-07-15 23:00:06,049 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:00:06,052 INFO Successfully parsed 27 questions
+2024-07-15 23:00:11,862 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:00:11,864 INFO Parsing template structure
+2024-07-15 23:00:11,865 INFO Parsed 5 main sections
+2024-07-15 23:00:11,865 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:00:11,867 INFO Successfully parsed 27 questions
+2024-07-15 23:00:48,042 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:00:48,043 INFO Parsing template structure
+2024-07-15 23:00:48,044 INFO Parsed 5 main sections
+2024-07-15 23:00:48,044 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:00:48,047 INFO Successfully parsed 27 questions
+2024-07-15 23:00:53,453 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:00:53,454 INFO Parsing template structure
+2024-07-15 23:00:53,455 INFO Parsed 5 main sections
+2024-07-15 23:00:53,455 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:00:53,458 INFO Successfully parsed 27 questions
+2024-07-15 23:06:04,179 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:06:04,180 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:06:04,181 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:06:04,184 INFO Parsing template structure
+2024-07-15 23:06:04,184 INFO Parsing template structure
+2024-07-15 23:06:04,185 INFO Parsed 5 main sections
+2024-07-15 23:06:04,186 INFO Parsed 5 main sections
+2024-07-15 23:06:04,188 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:06:04,187 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:06:04,186 INFO Parsing template structure
+2024-07-15 23:06:04,192 INFO Parsed 5 main sections
+2024-07-15 23:06:04,190 INFO Successfully parsed 27 questions
+2024-07-15 23:06:04,194 INFO Successfully parsed 27 questions
+2024-07-15 23:06:04,198 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:06:04,231 INFO Successfully parsed 27 questions
+2024-07-15 23:06:04,474 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:06:04,474 INFO Parsing template structure
+2024-07-15 23:06:04,475 INFO Parsed 5 main sections
+2024-07-15 23:06:04,475 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:06:04,477 INFO Successfully parsed 27 questions
+2024-07-15 23:06:10,005 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:06:10,006 INFO Parsing template structure
+2024-07-15 23:06:10,006 INFO Parsed 5 main sections
+2024-07-15 23:06:10,007 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:06:10,010 INFO Successfully parsed 27 questions
+2024-07-15 23:08:00,530 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:00,530 INFO Parsing template structure
+2024-07-15 23:08:00,530 INFO Parsed 5 main sections
+2024-07-15 23:08:00,530 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:00,531 INFO Successfully parsed 27 questions
+2024-07-15 23:08:00,644 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:00,645 INFO Parsing template structure
+2024-07-15 23:08:00,645 INFO Parsed 5 main sections
+2024-07-15 23:08:00,645 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:00,646 INFO Successfully parsed 27 questions
+2024-07-15 23:08:02,177 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:02,177 INFO Parsing template structure
+2024-07-15 23:08:02,178 INFO Parsed 5 main sections
+2024-07-15 23:08:02,178 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:02,181 INFO Successfully parsed 27 questions
+2024-07-15 23:08:04,035 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:04,035 INFO Parsing template structure
+2024-07-15 23:08:04,035 INFO Parsed 5 main sections
+2024-07-15 23:08:04,036 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:04,038 INFO Successfully parsed 27 questions
+2024-07-15 23:08:08,692 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:08,695 INFO Parsing template structure
+2024-07-15 23:08:08,695 INFO Parsed 5 main sections
+2024-07-15 23:08:08,696 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:08,700 INFO Successfully parsed 27 questions
+2024-07-15 23:08:10,415 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:10,416 INFO Parsing template structure
+2024-07-15 23:08:10,417 INFO Parsed 5 main sections
+2024-07-15 23:08:10,417 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:10,420 INFO Successfully parsed 27 questions
+2024-07-15 23:08:12,661 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:12,663 INFO Parsing template structure
+2024-07-15 23:08:12,663 INFO Parsed 5 main sections
+2024-07-15 23:08:12,663 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:12,672 INFO Successfully parsed 27 questions
+2024-07-15 23:08:30,341 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:30,342 INFO Parsing template structure
+2024-07-15 23:08:30,343 INFO Parsed 5 main sections
+2024-07-15 23:08:30,343 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:30,347 INFO Successfully parsed 27 questions
+2024-07-15 23:08:32,159 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:32,160 INFO Parsing template structure
+2024-07-15 23:08:32,160 INFO Parsed 5 main sections
+2024-07-15 23:08:32,160 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:32,161 INFO Successfully parsed 27 questions
+2024-07-15 23:08:35,758 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:08:35,759 INFO Parsing template structure
+2024-07-15 23:08:35,759 INFO Parsed 5 main sections
+2024-07-15 23:08:35,759 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:08:35,765 INFO Successfully parsed 27 questions
+2024-07-15 23:09:24,718 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:24,718 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:24,719 INFO Parsing template structure
+2024-07-15 23:09:24,719 INFO Parsing template structure
+2024-07-15 23:09:24,719 INFO Parsed 5 main sections
+2024-07-15 23:09:24,719 INFO Parsed 5 main sections
+2024-07-15 23:09:24,719 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:24,719 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:24,721 INFO Successfully parsed 27 questions
+2024-07-15 23:09:24,722 INFO Successfully parsed 27 questions
+2024-07-15 23:09:24,916 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:24,917 INFO Parsing template structure
+2024-07-15 23:09:24,917 INFO Parsed 5 main sections
+2024-07-15 23:09:24,917 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:24,918 INFO Successfully parsed 27 questions
+2024-07-15 23:09:29,576 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:29,577 INFO Parsing template structure
+2024-07-15 23:09:29,577 INFO Parsed 5 main sections
+2024-07-15 23:09:29,578 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:29,581 INFO Successfully parsed 27 questions
+2024-07-15 23:09:31,449 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:31,450 INFO Parsing template structure
+2024-07-15 23:09:31,450 INFO Parsed 5 main sections
+2024-07-15 23:09:31,450 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:31,453 INFO Successfully parsed 27 questions
+2024-07-15 23:09:37,104 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:09:37,105 INFO Parsing template structure
+2024-07-15 23:09:37,106 INFO Parsed 5 main sections
+2024-07-15 23:09:37,106 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:09:37,109 INFO Successfully parsed 27 questions
+2024-07-15 23:17:02,948 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:02,949 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:02,949 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:02,949 INFO Parsing template structure
+2024-07-15 23:17:02,950 INFO Parsed 5 main sections
+2024-07-15 23:17:02,950 INFO Parsing template structure
+2024-07-15 23:17:02,950 INFO Parsing template structure
+2024-07-15 23:17:02,950 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:02,950 INFO Parsed 5 main sections
+2024-07-15 23:17:02,950 INFO Parsed 5 main sections
+2024-07-15 23:17:02,950 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:02,950 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:02,951 INFO Successfully parsed 27 questions
+2024-07-15 23:17:02,952 INFO Successfully parsed 27 questions
+2024-07-15 23:17:02,953 INFO Successfully parsed 27 questions
+2024-07-15 23:17:03,153 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:03,153 INFO Parsing template structure
+2024-07-15 23:17:03,153 INFO Parsed 5 main sections
+2024-07-15 23:17:03,153 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:03,154 INFO Successfully parsed 27 questions
+2024-07-15 23:17:04,827 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:04,828 INFO Parsing template structure
+2024-07-15 23:17:04,828 INFO Parsed 5 main sections
+2024-07-15 23:17:04,829 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:04,832 INFO Successfully parsed 27 questions
+2024-07-15 23:17:06,337 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:06,337 INFO Parsing template structure
+2024-07-15 23:17:06,337 INFO Parsed 5 main sections
+2024-07-15 23:17:06,337 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:06,340 INFO Successfully parsed 27 questions
+2024-07-15 23:17:09,864 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:17:09,865 INFO Parsing template structure
+2024-07-15 23:17:09,865 INFO Parsed 5 main sections
+2024-07-15 23:17:09,865 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:17:09,868 INFO Successfully parsed 27 questions
+2024-07-15 23:17:31,762 INFO Filling template with data
+2024-07-15 23:20:42,792 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:42,793 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:42,794 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:42,795 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:42,795 INFO Parsing template structure
+2024-07-15 23:20:42,795 INFO Parsing template structure
+2024-07-15 23:20:42,795 INFO Parsing template structure
+2024-07-15 23:20:42,795 INFO Parsed 5 main sections
+2024-07-15 23:20:42,795 INFO Parsing template structure
+2024-07-15 23:20:42,795 INFO Parsed 5 main sections
+2024-07-15 23:20:42,795 INFO Parsed 5 main sections
+2024-07-15 23:20:42,796 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:42,796 INFO Parsed 5 main sections
+2024-07-15 23:20:42,796 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:42,796 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:42,796 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:42,797 INFO Successfully parsed 27 questions
+2024-07-15 23:20:42,798 INFO Successfully parsed 27 questions
+2024-07-15 23:20:42,799 INFO Successfully parsed 27 questions
+2024-07-15 23:20:42,801 INFO Successfully parsed 27 questions
+2024-07-15 23:20:43,035 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:43,035 INFO Parsing template structure
+2024-07-15 23:20:43,036 INFO Parsed 5 main sections
+2024-07-15 23:20:43,036 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:43,037 INFO Successfully parsed 27 questions
+2024-07-15 23:20:48,877 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:48,879 INFO Parsing template structure
+2024-07-15 23:20:48,879 INFO Parsed 5 main sections
+2024-07-15 23:20:48,879 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:48,883 INFO Successfully parsed 27 questions
+2024-07-15 23:20:50,134 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:50,135 INFO Parsing template structure
+2024-07-15 23:20:50,135 INFO Parsed 5 main sections
+2024-07-15 23:20:50,135 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:50,141 INFO Successfully parsed 27 questions
+2024-07-15 23:20:54,679 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:20:54,680 INFO Parsing template structure
+2024-07-15 23:20:54,680 INFO Parsed 5 main sections
+2024-07-15 23:20:54,681 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:20:54,683 INFO Successfully parsed 27 questions
+2024-07-15 23:21:15,980 INFO Filling template with data
+2024-07-15 23:21:15,982 ERROR Error filling template: 'str' object has no attribute 'items'
+2024-07-15 23:24:26,813 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:24:26,814 INFO Parsing template structure
+2024-07-15 23:24:26,814 INFO Parsed 5 main sections
+2024-07-15 23:24:26,814 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:24:26,815 INFO Successfully parsed 27 questions
+2024-07-15 23:24:26,966 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:24:26,966 INFO Parsing template structure
+2024-07-15 23:24:26,966 INFO Parsed 5 main sections
+2024-07-15 23:24:26,966 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:24:26,967 INFO Successfully parsed 27 questions
+2024-07-15 23:24:39,439 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:24:39,441 INFO Parsing template structure
+2024-07-15 23:24:39,442 INFO Parsed 5 main sections
+2024-07-15 23:24:39,442 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:24:39,447 INFO Successfully parsed 27 questions
+2024-07-15 23:25:51,203 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:25:51,205 INFO Parsing template structure
+2024-07-15 23:25:51,205 INFO Parsed 5 main sections
+2024-07-15 23:25:51,205 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:25:51,207 INFO Successfully parsed 27 questions
+2024-07-15 23:25:52,909 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:25:52,910 INFO Parsing template structure
+2024-07-15 23:25:52,910 INFO Parsed 5 main sections
+2024-07-15 23:25:52,911 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:25:52,914 INFO Successfully parsed 27 questions
+2024-07-15 23:25:54,059 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:25:54,060 INFO Parsing template structure
+2024-07-15 23:25:54,060 INFO Parsed 5 main sections
+2024-07-15 23:25:54,061 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:25:54,064 INFO Successfully parsed 27 questions
+2024-07-15 23:25:57,180 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:25:57,181 INFO Parsing template structure
+2024-07-15 23:25:57,181 INFO Parsed 5 main sections
+2024-07-15 23:25:57,182 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:25:57,185 INFO Successfully parsed 27 questions
+2024-07-15 23:26:19,335 INFO Filling template with data
+2024-07-15 23:26:29,845 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-15 23:26:29,858 INFO Parsing template structure
+2024-07-15 23:26:29,861 INFO Parsed 5 main sections
+2024-07-15 23:26:29,862 INFO Parsing questions from data/documintv10.txt
+2024-07-15 23:26:29,866 INFO Successfully parsed 27 questions
+2024-07-16 09:56:24,836 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:56:24,839 INFO Parsing template structure
+2024-07-16 09:56:24,839 INFO Parsed 5 main sections
+2024-07-16 09:56:24,839 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:56:24,840 INFO Successfully parsed 27 questions
+2024-07-16 09:56:32,876 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:56:32,878 INFO Parsing template structure
+2024-07-16 09:56:32,879 INFO Parsed 5 main sections
+2024-07-16 09:56:32,879 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:56:32,883 INFO Successfully parsed 27 questions
+2024-07-16 09:56:34,339 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:56:34,339 INFO Parsing template structure
+2024-07-16 09:56:34,339 INFO Parsed 5 main sections
+2024-07-16 09:56:34,339 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:56:34,342 INFO Successfully parsed 27 questions
+2024-07-16 09:58:09,220 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:58:09,221 INFO Parsing template structure
+2024-07-16 09:58:09,221 INFO Parsed 5 main sections
+2024-07-16 09:58:09,221 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:58:09,222 INFO Successfully parsed 27 questions
+2024-07-16 09:58:09,385 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:58:09,385 INFO Parsing template structure
+2024-07-16 09:58:09,386 INFO Parsed 5 main sections
+2024-07-16 09:58:09,386 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:58:09,387 INFO Successfully parsed 27 questions
+2024-07-16 09:58:10,940 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:58:10,941 INFO Parsing template structure
+2024-07-16 09:58:10,941 INFO Parsed 5 main sections
+2024-07-16 09:58:10,941 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:58:10,944 INFO Successfully parsed 27 questions
+2024-07-16 09:58:12,437 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:58:12,438 INFO Parsing template structure
+2024-07-16 09:58:12,438 INFO Parsed 5 main sections
+2024-07-16 09:58:12,438 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:58:12,441 INFO Successfully parsed 27 questions
+2024-07-16 09:58:32,075 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 09:58:32,076 INFO Parsing template structure
+2024-07-16 09:58:32,077 INFO Parsed 5 main sections
+2024-07-16 09:58:32,077 INFO Parsing questions from data/documintv10.txt
+2024-07-16 09:58:32,080 INFO Successfully parsed 27 questions
+2024-07-16 09:58:55,787 INFO Filling template with data
+2024-07-16 10:00:00,000 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:00:00,003 INFO Parsing template structure
+2024-07-16 10:00:00,007 INFO Parsed 5 main sections
+2024-07-16 10:00:00,007 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:00:00,008 INFO Successfully parsed 27 questions
+2024-07-16 10:02:17,260 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:17,262 INFO Parsing template structure
+2024-07-16 10:02:17,262 INFO Parsed 5 main sections
+2024-07-16 10:02:17,262 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:17,265 INFO Successfully parsed 27 questions
+2024-07-16 10:02:45,174 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:45,175 INFO Parsing template structure
+2024-07-16 10:02:45,175 INFO Parsed 5 main sections
+2024-07-16 10:02:45,175 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:45,176 INFO Successfully parsed 27 questions
+2024-07-16 10:02:45,665 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:45,666 INFO Parsing template structure
+2024-07-16 10:02:45,666 INFO Parsed 5 main sections
+2024-07-16 10:02:45,666 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:45,667 INFO Successfully parsed 27 questions
+2024-07-16 10:02:45,722 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:45,723 INFO Parsing template structure
+2024-07-16 10:02:45,723 INFO Parsed 5 main sections
+2024-07-16 10:02:45,723 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:45,724 INFO Successfully parsed 27 questions
+2024-07-16 10:02:49,588 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:49,589 INFO Parsing template structure
+2024-07-16 10:02:49,593 INFO Parsed 5 main sections
+2024-07-16 10:02:49,594 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:49,597 INFO Successfully parsed 27 questions
+2024-07-16 10:02:50,895 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:02:50,895 INFO Parsing template structure
+2024-07-16 10:02:50,896 INFO Parsed 5 main sections
+2024-07-16 10:02:50,896 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:02:50,901 INFO Successfully parsed 27 questions
+2024-07-16 10:05:49,597 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:05:49,597 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:05:49,598 INFO Parsing template structure
+2024-07-16 10:05:49,598 INFO Parsing template structure
+2024-07-16 10:05:49,598 INFO Parsed 5 main sections
+2024-07-16 10:05:49,598 INFO Parsed 5 main sections
+2024-07-16 10:05:49,598 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:05:49,598 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:05:49,599 INFO Successfully parsed 27 questions
+2024-07-16 10:05:49,599 INFO Successfully parsed 27 questions
+2024-07-16 10:06:29,467 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:29,467 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:29,467 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:29,467 INFO Parsing template structure
+2024-07-16 10:06:29,467 INFO Parsing template structure
+2024-07-16 10:06:29,467 INFO Parsing template structure
+2024-07-16 10:06:29,468 INFO Parsed 5 main sections
+2024-07-16 10:06:29,468 INFO Parsed 5 main sections
+2024-07-16 10:06:29,468 INFO Parsed 5 main sections
+2024-07-16 10:06:29,468 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:29,468 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:29,468 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:29,469 INFO Successfully parsed 27 questions
+2024-07-16 10:06:29,469 INFO Successfully parsed 27 questions
+2024-07-16 10:06:29,469 INFO Successfully parsed 27 questions
+2024-07-16 10:06:37,181 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:37,181 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:37,181 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:37,181 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:06:37,181 INFO Parsing template structure
+2024-07-16 10:06:37,181 INFO Parsing template structure
+2024-07-16 10:06:37,181 INFO Parsing template structure
+2024-07-16 10:06:37,181 INFO Parsing template structure
+2024-07-16 10:06:37,182 INFO Parsed 5 main sections
+2024-07-16 10:06:37,182 INFO Parsed 5 main sections
+2024-07-16 10:06:37,182 INFO Parsed 5 main sections
+2024-07-16 10:06:37,182 INFO Parsed 5 main sections
+2024-07-16 10:06:37,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:37,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:37,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:37,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:06:37,183 INFO Successfully parsed 27 questions
+2024-07-16 10:06:37,183 INFO Successfully parsed 27 questions
+2024-07-16 10:06:37,183 INFO Successfully parsed 27 questions
+2024-07-16 10:06:37,183 INFO Successfully parsed 27 questions
+2024-07-16 10:07:10,458 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:07:10,458 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:07:10,458 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:07:10,458 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:07:10,460 INFO Parsing template structure
+2024-07-16 10:07:10,460 INFO Parsing template structure
+2024-07-16 10:07:10,460 INFO Parsing template structure
+2024-07-16 10:07:10,460 INFO Parsing template structure
+2024-07-16 10:07:10,461 INFO Parsed 5 main sections
+2024-07-16 10:07:10,461 INFO Parsed 5 main sections
+2024-07-16 10:07:10,461 INFO Parsed 5 main sections
+2024-07-16 10:07:10,461 INFO Parsed 5 main sections
+2024-07-16 10:07:10,463 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:07:10,463 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:07:10,463 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:07:10,463 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:07:10,466 INFO Successfully parsed 27 questions
+2024-07-16 10:07:10,466 INFO Successfully parsed 27 questions
+2024-07-16 10:07:10,466 INFO Successfully parsed 27 questions
+2024-07-16 10:07:10,466 INFO Successfully parsed 27 questions
+2024-07-16 10:08:46,280 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:46,280 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:46,280 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:46,280 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:46,286 INFO Parsing template structure
+2024-07-16 10:08:46,286 INFO Parsing template structure
+2024-07-16 10:08:46,286 INFO Parsing template structure
+2024-07-16 10:08:46,286 INFO Parsing template structure
+2024-07-16 10:08:46,287 INFO Parsed 5 main sections
+2024-07-16 10:08:46,287 INFO Parsed 5 main sections
+2024-07-16 10:08:46,287 INFO Parsed 5 main sections
+2024-07-16 10:08:46,287 INFO Parsed 5 main sections
+2024-07-16 10:08:46,288 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:46,288 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:46,288 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:46,288 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:46,295 INFO Successfully parsed 27 questions
+2024-07-16 10:08:46,295 INFO Successfully parsed 27 questions
+2024-07-16 10:08:46,295 INFO Successfully parsed 27 questions
+2024-07-16 10:08:46,295 INFO Successfully parsed 27 questions
+2024-07-16 10:08:47,698 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:47,698 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:47,698 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:47,698 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:47,699 INFO Parsing template structure
+2024-07-16 10:08:47,699 INFO Parsing template structure
+2024-07-16 10:08:47,699 INFO Parsing template structure
+2024-07-16 10:08:47,699 INFO Parsing template structure
+2024-07-16 10:08:47,700 INFO Parsed 5 main sections
+2024-07-16 10:08:47,700 INFO Parsed 5 main sections
+2024-07-16 10:08:47,700 INFO Parsed 5 main sections
+2024-07-16 10:08:47,700 INFO Parsed 5 main sections
+2024-07-16 10:08:47,700 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:47,700 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:47,700 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:47,700 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:47,704 INFO Successfully parsed 27 questions
+2024-07-16 10:08:47,704 INFO Successfully parsed 27 questions
+2024-07-16 10:08:47,704 INFO Successfully parsed 27 questions
+2024-07-16 10:08:47,704 INFO Successfully parsed 27 questions
+2024-07-16 10:08:49,811 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:49,811 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:49,811 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:49,811 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:49,813 INFO Parsing template structure
+2024-07-16 10:08:49,813 INFO Parsing template structure
+2024-07-16 10:08:49,813 INFO Parsing template structure
+2024-07-16 10:08:49,813 INFO Parsing template structure
+2024-07-16 10:08:49,813 INFO Parsed 5 main sections
+2024-07-16 10:08:49,813 INFO Parsed 5 main sections
+2024-07-16 10:08:49,813 INFO Parsed 5 main sections
+2024-07-16 10:08:49,813 INFO Parsed 5 main sections
+2024-07-16 10:08:49,814 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:49,814 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:49,814 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:49,814 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:49,816 INFO Successfully parsed 27 questions
+2024-07-16 10:08:49,816 INFO Successfully parsed 27 questions
+2024-07-16 10:08:49,816 INFO Successfully parsed 27 questions
+2024-07-16 10:08:49,816 INFO Successfully parsed 27 questions
+2024-07-16 10:08:53,681 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:53,681 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:53,681 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:53,681 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:08:53,682 INFO Parsing template structure
+2024-07-16 10:08:53,682 INFO Parsing template structure
+2024-07-16 10:08:53,682 INFO Parsing template structure
+2024-07-16 10:08:53,682 INFO Parsing template structure
+2024-07-16 10:08:53,683 INFO Parsed 5 main sections
+2024-07-16 10:08:53,683 INFO Parsed 5 main sections
+2024-07-16 10:08:53,683 INFO Parsed 5 main sections
+2024-07-16 10:08:53,683 INFO Parsed 5 main sections
+2024-07-16 10:08:53,683 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:53,683 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:53,683 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:53,683 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:08:53,686 INFO Successfully parsed 27 questions
+2024-07-16 10:08:53,686 INFO Successfully parsed 27 questions
+2024-07-16 10:08:53,686 INFO Successfully parsed 27 questions
+2024-07-16 10:08:53,686 INFO Successfully parsed 27 questions
+2024-07-16 10:10:29,254 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:10:29,254 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:10:29,254 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:10:29,254 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:10:29,254 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:10:29,257 INFO Parsing template structure
+2024-07-16 10:10:29,257 INFO Parsing template structure
+2024-07-16 10:10:29,257 INFO Parsing template structure
+2024-07-16 10:10:29,257 INFO Parsing template structure
+2024-07-16 10:10:29,257 INFO Parsing template structure
+2024-07-16 10:10:29,259 INFO Parsed 5 main sections
+2024-07-16 10:10:29,259 INFO Parsed 5 main sections
+2024-07-16 10:10:29,259 INFO Parsed 5 main sections
+2024-07-16 10:10:29,259 INFO Parsed 5 main sections
+2024-07-16 10:10:29,259 INFO Parsed 5 main sections
+2024-07-16 10:10:29,260 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:10:29,260 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:10:29,260 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:10:29,260 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:10:29,260 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:10:29,261 INFO Successfully parsed 27 questions
+2024-07-16 10:10:29,261 INFO Successfully parsed 27 questions
+2024-07-16 10:10:29,261 INFO Successfully parsed 27 questions
+2024-07-16 10:10:29,261 INFO Successfully parsed 27 questions
+2024-07-16 10:10:29,261 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,456 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsing template structure
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsed 5 main sections
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,457 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:11:31,458 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,122 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,125 INFO Parsing template structure
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsed 5 main sections
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,126 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:30,128 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,971 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,972 INFO Parsing template structure
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,973 INFO Parsed 5 main sections
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,974 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:34,978 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,083 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsing template structure
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsed 5 main sections
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,084 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:51,085 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,737 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,738 INFO Parsing template structure
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,739 INFO Parsed 5 main sections
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,740 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:13:55,744 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,761 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsing template structure
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsed 5 main sections
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,763 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:00,764 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,355 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,356 INFO Parsing template structure
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,357 INFO Parsed 5 main sections
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,358 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:03,361 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,179 INFO Parsing template structure
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsed 5 main sections
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,180 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:38,182 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,180 INFO Parsing template structure
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsed 5 main sections
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:41,186 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,671 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,676 INFO Parsing template structure
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,678 INFO Parsed 5 main sections
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,679 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:52,682 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,796 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,798 INFO Parsing template structure
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,800 INFO Parsed 5 main sections
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,801 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:15:56,806 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,077 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,079 INFO Parsing template structure
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,080 INFO Parsed 5 main sections
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,081 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:01,085 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,506 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsing template structure
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,509 INFO Parsed 5 main sections
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,510 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:16:04,514 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,556 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,557 INFO Parsing template structure
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsed 5 main sections
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,558 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:06,560 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,784 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,786 INFO Parsing template structure
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,787 INFO Parsed 5 main sections
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,788 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:09,792 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,867 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsing template structure
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsed 5 main sections
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,868 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:26,870 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,624 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,627 INFO Parsing template structure
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,628 INFO Parsed 5 main sections
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,629 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:29,631 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,303 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,306 INFO Parsing template structure
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,307 INFO Parsed 5 main sections
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,308 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:42,312 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,178 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,180 INFO Parsing template structure
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,181 INFO Parsed 5 main sections
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,182 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:44,187 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,208 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,209 INFO Parsing template structure
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,210 INFO Parsed 5 main sections
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,211 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:17:45,214 INFO Successfully parsed 27 questions
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:18:08,594 INFO Filling template with data
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,106 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsing template structure
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsed 5 main sections
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,107 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:30:13,109 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,250 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,253 INFO Parsing template structure
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,254 INFO Parsed 5 main sections
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,255 INFO Parsing questions from data/documintv10.txt
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 10:43:03,257 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,336 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,339 INFO Parsing template structure
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsed 5 main sections
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,340 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:34,341 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,409 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,411 INFO Parsing template structure
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,412 INFO Parsed 5 main sections
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,413 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:44,415 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,435 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,437 INFO Parsing template structure
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,438 INFO Parsed 5 main sections
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,439 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:47,442 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,711 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,713 INFO Parsing template structure
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,715 INFO Parsed 5 main sections
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,716 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:25:51,721 INFO Successfully parsed 27 questions
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:26:12,771 INFO Filling template with data
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,196 INFO Loading template from /Users/aousabdo/Library/CloudStorage/OneDrive-FWDthink/DocuMint/documint/templates/sow_template.txt
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,200 INFO Parsing template structure
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,201 INFO Parsed 5 main sections
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,202 INFO Parsing questions from data/documintv10.txt
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
+2024-07-16 12:48:54,205 INFO Successfully parsed 27 questions
