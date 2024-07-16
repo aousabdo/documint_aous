@@ -2,6 +2,7 @@ from phi.assistant import Assistant
 from phi.llm.anthropic import Claude
 from app.logger import assistant_logger
 import os
+import re
 
 # Get API keys from environment variables
 anthropic_api_key = os.environ.get('ANTHROPIC_API_KEY')
@@ -22,11 +23,24 @@ def create_documint_assistants(anthropic_api_key):
             "Ensure all required sections are completed",
             "Maintain a professional tone and use appropriate terminology for DHS TSA procurement",
             "Adapt the content based on the specific document type (SOW, PWS, SOO)",
+            "Do not include introductory phrases like 'Here's the generated content for...' in your output",
         ],
         markdown=True,
     )
     assistant_logger.info("DocuMint assistants created successfully")
     return documint_orchestrator
+
+def clean_generated_content(content):
+    # Remove introductory phrases
+    content = re.sub(r"^Here's the generated (content|section) for.*?:\n", "", content, flags=re.IGNORECASE | re.MULTILINE)
+    
+    # Remove any remaining section headers (as we're adding them manually)
+    content = re.sub(r"^#+\s+.*?\n", "", content, flags=re.MULTILINE)
+    
+    # Remove extra newlines
+    content = re.sub(r"\n{3,}", "\n\n", content)
+    
+    return content.strip()
 
 def generate_document(orchestrator, document_type, template_structure, questionnaire_responses, example_answers):
     assistant_logger.info(f"Starting document generation for {document_type}")
@@ -62,6 +76,8 @@ def generate_document(orchestrator, document_type, template_structure, questionn
         4. Ensure the section is complete and detailed.
         5. Maintain a professional tone and use appropriate terminology for DHS TSA procurement.
         6. Adapt the content based on the specific document type ({document_type}).
+        7. Do not include any introductory phrases like "Here's the generated content for...".
+        8. Start directly with the content of the section.
 
         Generate the complete content for this section, filling in any missing information with appropriate placeholder text.
         """
@@ -75,11 +91,14 @@ def generate_document(orchestrator, document_type, template_structure, questionn
             else:
                 section_content = ''.join(response)
             
-            full_document += f"\n\n## {section}\n\n{section_content}"
+            # Clean the generated content
+            cleaned_content = clean_generated_content(section_content)
+            
+            full_document += f"\n\n## {section}\n\n{cleaned_content}"
             
         except Exception as e:
             assistant_logger.error(f"Error generating section '{section}': {str(e)}")
             full_document += f"\n\n## {section}\n\nError generating this section."
 
     assistant_logger.info("Completed document generation")
-    return full_document
+    return full_document.strip()
