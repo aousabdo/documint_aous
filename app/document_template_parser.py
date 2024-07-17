@@ -1,5 +1,6 @@
 import re
 from app.logger import parser_logger
+import functools
 
 class DocumentTemplateParser:
     def __init__(self, template_path):
@@ -7,6 +8,7 @@ class DocumentTemplateParser:
         self.template_content = self.load_template()
         self.template_structure = self.parse_template_structure()
 
+    @functools.lru_cache(maxsize=None)
     def load_template(self):
         parser_logger.info(f"Loading template from {self.template_path}")
         try:
@@ -19,6 +21,7 @@ class DocumentTemplateParser:
             parser_logger.error(f"Error loading template: {str(e)}")
             raise
 
+    @functools.lru_cache(maxsize=None)
     def parse_template_structure(self):
         parser_logger.info("Parsing template structure")
         structure = []
@@ -66,3 +69,14 @@ class DocumentTemplateParser:
         except Exception as e:
             parser_logger.error(f"Error filling template: {str(e)}")
             raise
+
+# Usage example:
+if __name__ == "__main__":
+    template_path = "path/to/your/template.txt"
+    parser = DocumentTemplateParser(template_path)
+    
+    # The template will be loaded and parsed only once, even if called multiple times
+    structure1 = parser.template_structure
+    structure2 = parser.template_structure  # This will use the cached result
+    
+    print(f"Number of sections: {len(structure1)}")
