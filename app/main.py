@@ -12,6 +12,15 @@ from datetime import datetime
 
 load_dotenv()
 
+# Load questionnaire at app startup
+question_parser = QuestionParser()
+try:
+    questions = question_parser.parse_questions('data/documintv10.txt')
+    main_logger.info(f"Parsed {len(questions)} questions at startup")
+except Exception as e:
+    main_logger.error(f"Error loading questions at startup: {str(e)}")
+    questions = []
+
 def convert_markdown_to_docx(markdown_content):
     with tempfile.NamedTemporaryFile(delete=False, suffix='.docx') as temp_docx:
         temp_docx_path = temp_docx.name
@@ -51,7 +60,6 @@ def main():
     # Add user name input
     user_name = st.sidebar.text_input("Enter your name", value="DocuMint_User")
     
-    
     selected_llm_model = llm_options[selected_llm]
 
     try:
@@ -78,15 +86,8 @@ def main():
         template_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), document_types[selected_doc_type])
         template_parser = DocumentTemplateParser(template_path)
 
-        question_parser = QuestionParser()
-        try:
-            questions = question_parser.parse_questions('data/documintv10.txt')
-            st.write(f"Parsed {len(questions)} questions")
-        except Exception as e:
-            st.error(f"Error loading questions: {str(e)}")
-            return
-
         st.subheader("Questionnaire")
+        st.write(f"Loaded {len(questions)} questions")
         
         use_preload = st.checkbox("Use pre-loaded answers for testing", value=False, key="use_preload_checkbox")
         
