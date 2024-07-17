@@ -10,7 +10,7 @@ def create_questionnaire(questions):
         
         if question.llm_hint:
             with st.expander(f"View Example Answer for Question {question.id}"):
-                st.write(question.llm_hint)
+                st.write(f"Example Answer: {question.llm_hint[15:]}")
         
         response = st.text_area(
             f"Your answer for Question {question.id} {'(Required)' if question.required else '(Optional)'}",
