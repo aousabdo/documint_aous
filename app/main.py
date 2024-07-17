@@ -10,6 +10,8 @@ import pypandoc
 import tempfile
 from datetime import datetime
 
+import asyncio
+
 load_dotenv()
 
 # Load questionnaire at app startup
