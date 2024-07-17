@@ -69,28 +69,11 @@ You can customize document templates and questionnaires by modifying the relevan
 * Legal Agreements
 * And more!
 
-## 🤝 Contributing
-
-We welcome contributions to DocumentMint! Here's how you can help:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/AmazingFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-5. Push to the branch (`git push origin feature/AmazingFeature`).
-6. Open a Pull Request.
-
-Please ensure your code adheres to our coding standards and includes appropriate tests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 * OpenAI for their powerful language models
 * Streamlit for the amazing web application framework
-* All contributors and users of DocumentMint
+* All contributors and users of DocuMint
 
 ## 📞 Contact
 
