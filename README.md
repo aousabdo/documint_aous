@@ -1,6 +1,3 @@
-Okay, I can help you fix up that `README.md` file. Here's an improved version with corrections and formatting enhancements:
-
-```markdown
 # DocumentMint: AI-Powered Document Generation
 
 DocumentMint is an innovative AI-powered application designed to streamline the process of creating professional documents. By leveraging advanced language models and a user-friendly interface, DocumentMint allows users to generate high-quality documents with ease.
@@ -102,4 +99,4 @@ For any questions or support, please open an issue on this repository or contact
 ---
 
 Happy document creation with DocumentMint! 📝✨ 
-```
+
